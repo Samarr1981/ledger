@@ -1,0 +1,696 @@
+[
+  {
+    "question_id": "q01",
+    "claim_id": "q01_c1",
+    "claim_text": "A motorized snow vehicle is included in the definition of automobile under this policy.",
+    "cited_chunk_ids": [
+      "c_004"
+    ]
+  },
+  {
+    "question_id": "q02",
+    "claim_id": "q02_c1",
+    "claim_text": "Coverage extends to other automobiles (not the described automobile) when driven by you or your spouse who lives with you.",
+    "cited_chunk_ids": [
+      "c_019"
+    ]
+  },
+  {
+    "question_id": "q02",
+    "claim_id": "q02_c2",
+    "claim_text": "For corporate named insureds, the employee or partner for whose regular use a described automobile is supplied may be covered when driving other automobiles.",
+    "cited_chunk_ids": [
+      "c_019"
+    ]
+  },
+  {
+    "question_id": "q02",
+    "claim_id": "q02_c3",
+    "claim_text": "For corporate named insureds, the spouse (who lives with the employee or partner) of the employee or partner for whose regular use a described automobile is supplied may be covered when driving other automobiles.",
+    "cited_chunk_ids": [
+      "c_019"
+    ]
+  },
+  {
+    "question_id": "q03",
+    "claim_id": "q03_c1",
+    "claim_text": "If the insured is unable to report an accident involving injury or property damage within seven days, the insured must report it as soon as possible after that.",
+    "cited_chunk_ids": [
+      "c_007"
+    ]
+  },
+  {
+    "question_id": "q04",
+    "claim_id": "q04_c1",
+    "claim_text": "Comprehensive coverage pays for losses other than those caused by collision or upset.",
+    "cited_chunk_ids": [
+      "c_069"
+    ]
+  },
+  {
+    "question_id": "q04",
+    "claim_id": "q04_c2",
+    "claim_text": "Comprehensive coverage pays for losses caused by fire.",
+    "cited_chunk_ids": [
+      "c_069"
+    ]
+  },
+  {
+    "question_id": "q04",
+    "claim_id": "q04_c3",
+    "claim_text": "Comprehensive coverage pays for losses caused by theft or attempted theft.",
+    "cited_chunk_ids": [
+      "c_069"
+    ]
+  },
+  {
+    "question_id": "q04",
+    "claim_id": "q04_c4",
+    "claim_text": "Comprehensive coverage pays for losses caused by lightning.",
+    "cited_chunk_ids": [
+      "c_069"
+    ]
+  },
+  {
+    "question_id": "q04",
+    "claim_id": "q04_c5",
+    "claim_text": "Comprehensive coverage pays for losses caused by windstorm.",
+    "cited_chunk_ids": [
+      "c_069"
+    ]
+  },
+  {
+    "question_id": "q04",
+    "claim_id": "q04_c6",
+    "claim_text": "Comprehensive coverage pays for losses caused by hail.",
+    "cited_chunk_ids": [
+      "c_069"
+    ]
+  },
+  {
+    "question_id": "q04",
+    "claim_id": "q04_c7",
+    "claim_text": "Comprehensive coverage pays for losses caused by rising water.",
+    "cited_chunk_ids": [
+      "c_069"
+    ]
+  },
+  {
+    "question_id": "q04",
+    "claim_id": "q04_c8",
+    "claim_text": "Comprehensive coverage pays for losses caused by earthquake.",
+    "cited_chunk_ids": [
+      "c_069"
+    ]
+  },
+  {
+    "question_id": "q04",
+    "claim_id": "q04_c9",
+    "claim_text": "Comprehensive coverage pays for losses caused by explosion.",
+    "cited_chunk_ids": [
+      "c_069"
+    ]
+  },
+  {
+    "question_id": "q04",
+    "claim_id": "q04_c10",
+    "claim_text": "Comprehensive coverage pays for losses caused by riot or civil disturbance.",
+    "cited_chunk_ids": [
+      "c_069"
+    ]
+  },
+  {
+    "question_id": "q04",
+    "claim_id": "q04_c11",
+    "claim_text": "Comprehensive coverage pays for losses caused by falling or forced landing of aircraft or parts of aircraft.",
+    "cited_chunk_ids": [
+      "c_069"
+    ]
+  },
+  {
+    "question_id": "q04",
+    "claim_id": "q04_c12",
+    "claim_text": "Comprehensive coverage pays for losses caused by the stranding, sinking, burning, derailment, or collision of any transport carrying the automobile.",
+    "cited_chunk_ids": [
+      "c_069"
+    ]
+  },
+  {
+    "question_id": "q04",
+    "claim_id": "q04_c13",
+    "claim_text": "Comprehensive coverage pays for losses caused by falling or flying objects.",
+    "cited_chunk_ids": [
+      "c_069"
+    ]
+  },
+  {
+    "question_id": "q04",
+    "claim_id": "q04_c14",
+    "claim_text": "Comprehensive coverage pays for losses caused by missiles.",
+    "cited_chunk_ids": [
+      "c_069"
+    ]
+  },
+  {
+    "question_id": "q04",
+    "claim_id": "q04_c15",
+    "claim_text": "Comprehensive coverage pays for losses caused by vandalism.",
+    "cited_chunk_ids": [
+      "c_069"
+    ]
+  },
+  {
+    "question_id": "q04",
+    "claim_id": "q04_c16",
+    "claim_text": "Collision or Upset coverage pays only for losses caused when a described automobile is involved in a collision with another object or tips over.",
+    "cited_chunk_ids": [
+      "c_069"
+    ]
+  },
+  {
+    "question_id": "q04",
+    "claim_id": "q04_c17",
+    "claim_text": "Comprehensive coverage covers theft but Collision or Upset coverage does not.",
+    "cited_chunk_ids": [
+      "c_069"
+    ]
+  },
+  {
+    "question_id": "q04",
+    "claim_id": "q04_c18",
+    "claim_text": "Comprehensive coverage covers weather-related damage but Collision or Upset coverage does not.",
+    "cited_chunk_ids": [
+      "c_069"
+    ]
+  },
+  {
+    "question_id": "q04",
+    "claim_id": "q04_c19",
+    "claim_text": "Comprehensive coverage covers vandalism but Collision or Upset coverage does not.",
+    "cited_chunk_ids": [
+      "c_069"
+    ]
+  },
+  {
+    "question_id": "q04",
+    "claim_id": "q04_c20",
+    "claim_text": "Comprehensive coverage covers falling objects but Collision or Upset coverage does not.",
+    "cited_chunk_ids": [
+      "c_069"
+    ]
+  },
+  {
+    "question_id": "q04",
+    "claim_id": "q04_c21",
+    "claim_text": "Comprehensive coverage covers missiles but Collision or Upset coverage does not.",
+    "cited_chunk_ids": [
+      "c_069"
+    ]
+  },
+  {
+    "question_id": "q05",
+    "claim_id": "q05_c1",
+    "claim_text": "When making a claim under the Loss or Damage coverage, you and other insured persons must permit the insurer to inspect the automobile at any reasonable time.",
+    "cited_chunk_ids": [
+      "c_077"
+    ]
+  },
+  {
+    "question_id": "q06",
+    "claim_id": "q06_c1",
+    "claim_text": "The most the insurer will pay for loss or damage to electronic accessories or equipment other than factory installed equipment is $1,500.",
+    "cited_chunk_ids": [
+      "c_079"
+    ]
+  },
+  {
+    "question_id": "q06",
+    "claim_id": "q06_c2",
+    "claim_text": "The insurer will pay the actual cash value of electronic accessories or equipment other than factory installed equipment.",
+    "cited_chunk_ids": [
+      "c_079"
+    ]
+  },
+  {
+    "question_id": "q06",
+    "claim_id": "q06_c3",
+    "claim_text": "The insurer's payment for electronic accessories or equipment other than factory installed equipment is capped at $1,500 in total.",
+    "cited_chunk_ids": [
+      "c_079"
+    ]
+  },
+  {
+    "question_id": "q06",
+    "claim_id": "q06_c4",
+    "claim_text": "Electronic accessories and equipment includes radios.",
+    "cited_chunk_ids": [
+      "c_079"
+    ]
+  },
+  {
+    "question_id": "q06",
+    "claim_id": "q06_c5",
+    "claim_text": "Electronic accessories and equipment includes tape players/decks.",
+    "cited_chunk_ids": [
+      "c_079"
+    ]
+  },
+  {
+    "question_id": "q06",
+    "claim_id": "q06_c6",
+    "claim_text": "Electronic accessories and equipment includes stereo players/decks.",
+    "cited_chunk_ids": [
+      "c_079"
+    ]
+  },
+  {
+    "question_id": "q06",
+    "claim_id": "q06_c7",
+    "claim_text": "Electronic accessories and equipment includes compact disc players.",
+    "cited_chunk_ids": [
+      "c_079"
+    ]
+  },
+  {
+    "question_id": "q06",
+    "claim_id": "q06_c8",
+    "claim_text": "Electronic accessories and equipment includes speakers.",
+    "cited_chunk_ids": [
+      "c_079"
+    ]
+  },
+  {
+    "question_id": "q06",
+    "claim_id": "q06_c9",
+    "claim_text": "Electronic accessories and equipment includes telephones.",
+    "cited_chunk_ids": [
+      "c_079"
+    ]
+  },
+  {
+    "question_id": "q06",
+    "claim_id": "q06_c10",
+    "claim_text": "Electronic accessories and equipment includes two-way radios.",
+    "cited_chunk_ids": [
+      "c_079"
+    ]
+  },
+  {
+    "question_id": "q06",
+    "claim_id": "q06_c11",
+    "claim_text": "Electronic accessories and equipment includes televisions.",
+    "cited_chunk_ids": [
+      "c_079"
+    ]
+  },
+  {
+    "question_id": "q06",
+    "claim_id": "q06_c12",
+    "claim_text": "Electronic accessories and equipment includes facsimile machines.",
+    "cited_chunk_ids": [
+      "c_079"
+    ]
+  },
+  {
+    "question_id": "q06",
+    "claim_id": "q06_c13",
+    "claim_text": "Electronic accessories and equipment includes electronic navigation assistance devices.",
+    "cited_chunk_ids": [
+      "c_079"
+    ]
+  },
+  {
+    "question_id": "q06",
+    "claim_id": "q06_c14",
+    "claim_text": "Electronic accessories and equipment includes positioning and location finding devices.",
+    "cited_chunk_ids": [
+      "c_079"
+    ]
+  },
+  {
+    "question_id": "q06",
+    "claim_id": "q06_c15",
+    "claim_text": "Electronic accessories and equipment includes computers.",
+    "cited_chunk_ids": [
+      "c_079"
+    ]
+  },
+  {
+    "question_id": "q06",
+    "claim_id": "q06_c16",
+    "claim_text": "Electronic accessories and equipment includes items of a similar nature to radios, tape players/decks, stereo players/decks, compact disc players, speakers, telephones, two-way radios, televisions, facsimile machines, electronic navigation assistance, positioning and location finding devices, and computers.",
+    "cited_chunk_ids": [
+      "c_079"
+    ]
+  },
+  {
+    "question_id": "q06",
+    "claim_id": "q06_c17",
+    "claim_text": "Factory installed equipment means electronic accessories and equipment which was included in the original new purchase price of the automobile.",
+    "cited_chunk_ids": [
+      "c_079"
+    ]
+  },
+  {
+    "question_id": "q07",
+    "claim_id": "q07_c1",
+    "claim_text": "Under Uninsured Automobile Coverage, the insurer will not pay for the first $300 worth of accidental damage to the automobile and its contents.",
+    "cited_chunk_ids": [
+      "c_054"
+    ]
+  },
+  {
+    "question_id": "q07",
+    "claim_id": "q07_c2",
+    "claim_text": "Under Uninsured Automobile Coverage, the insurer will not pay any amount over $25,000 in any one accident for damage to the automobile and its contents.",
+    "cited_chunk_ids": [
+      "c_054"
+    ]
+  },
+  {
+    "question_id": "q08",
+    "claim_id": "q08_c1",
+    "claim_text": "When an accident results in valid claims for both bodily injury or death and property damage, 95% of the total amount payable is allocated to bodily injury and death claims.",
+    "cited_chunk_ids": [
+      "c_052"
+    ]
+  },
+  {
+    "question_id": "q08",
+    "claim_id": "q08_c2",
+    "claim_text": "When an accident results in valid claims for both bodily injury or death and property damage, 5% of the total amount payable is allocated to property damage (damage to the automobile or its contents).",
+    "cited_chunk_ids": [
+      "c_052"
+    ]
+  },
+  {
+    "question_id": "q08",
+    "claim_id": "q08_c3",
+    "claim_text": "If an accident results in $350,000 in bodily injury claims and $20,000 in property damage and the maximum payable is $200,000, then $190,000 (95%) goes toward bodily injury payments.",
+    "cited_chunk_ids": [
+      "c_052"
+    ]
+  },
+  {
+    "question_id": "q08",
+    "claim_id": "q08_c4",
+    "claim_text": "If an accident results in $350,000 in bodily injury claims and $20,000 in property damage and the maximum payable is $200,000, then $10,000 (5%) applies to the vehicle loss.",
+    "cited_chunk_ids": [
+      "c_052"
+    ]
+  },
+  {
+    "question_id": "q08",
+    "claim_id": "q08_c5",
+    "claim_text": "Property damage coverage is subject to a $300 deductible.",
+    "cited_chunk_ids": [
+      "c_047",
+      "c_047"
+    ]
+  },
+  {
+    "question_id": "q08",
+    "claim_id": "q08_c6",
+    "claim_text": "Property damage coverage is capped at $25,000.",
+    "cited_chunk_ids": [
+      "c_047",
+      "c_047"
+    ]
+  },
+  {
+    "question_id": "q08",
+    "claim_id": "q08_c7",
+    "claim_text": "Property damage coverage only applies when the responsible driver is identified.",
+    "cited_chunk_ids": [
+      "c_047",
+      "c_047"
+    ]
+  },
+  {
+    "question_id": "q08",
+    "claim_id": "q08_c8",
+    "claim_text": "Property damage caused by an unidentified automobile is not covered.",
+    "cited_chunk_ids": [
+      "c_047",
+      "c_047"
+    ]
+  },
+  {
+    "question_id": "q09",
+    "claim_id": "q09_c1",
+    "claim_text": "If an insured is 25% at fault with a $500 Collision deductible, the Section 7 Collision deductible owed is $125.",
+    "cited_chunk_ids": [
+      "c_072"
+    ]
+  },
+  {
+    "question_id": "q09",
+    "claim_id": "q09_c2",
+    "claim_text": "If an insured is 25% at fault (75% not at fault) with a $300 DC-PD deductible, the DC-PD deductible owed is $225.",
+    "cited_chunk_ids": [
+      "c_062"
+    ]
+  },
+  {
+    "question_id": "q09",
+    "claim_id": "q09_c3",
+    "claim_text": "Being 25% at fault results in a combined deductible responsibility of $350 total.",
+    "cited_chunk_ids": [
+      "c_072",
+      "c_062"
+    ]
+  },
+  {
+    "question_id": "q09",
+    "claim_id": "q09_c4",
+    "claim_text": "The $350 combined deductible when 25% at fault consists of $125 under Section 7 Collision coverage and $225 under DC-PD coverage.",
+    "cited_chunk_ids": [
+      "c_072",
+      "c_062"
+    ]
+  },
+  {
+    "question_id": "q10",
+    "claim_id": "q10_c1",
+    "claim_text": "The described automobile must be out of service due to breakdown, repair, servicing, theft, sale, or destruction for a temporary substitute automobile to qualify for coverage.",
+    "cited_chunk_ids": [
+      "c_018"
+    ]
+  },
+  {
+    "question_id": "q10",
+    "claim_id": "q10_c2",
+    "claim_text": "The described automobile must not be in use by anyone insured under the policy for a temporary substitute automobile to qualify for coverage.",
+    "cited_chunk_ids": [
+      "c_018"
+    ]
+  },
+  {
+    "question_id": "q10",
+    "claim_id": "q10_c3",
+    "claim_text": "The substitute vehicle cannot be owned by the policyholder for a temporary substitute automobile to qualify for coverage.",
+    "cited_chunk_ids": [
+      "c_018"
+    ]
+  },
+  {
+    "question_id": "q10",
+    "claim_id": "q10_c4",
+    "claim_text": "The substitute vehicle cannot be owned by anyone living in the same dwelling as the policyholder for a temporary substitute automobile to qualify for coverage.",
+    "cited_chunk_ids": [
+      "c_018"
+    ]
+  },
+  {
+    "question_id": "q10",
+    "claim_id": "q10_c5",
+    "claim_text": "The applicable optional Loss or Damage Coverage must have been purchased on the described automobile that is temporarily out of service for a temporary substitute automobile to qualify for coverage.",
+    "cited_chunk_ids": [
+      "c_018"
+    ]
+  },
+  {
+    "question_id": "q10",
+    "claim_id": "q10_c6",
+    "claim_text": "A premium for the applicable optional Loss or Damage Coverage must be shown on the Certificate of Automobile Insurance for a temporary substitute automobile to qualify for coverage.",
+    "cited_chunk_ids": [
+      "c_018"
+    ]
+  },
+  {
+    "question_id": "q10",
+    "claim_id": "q10_c7",
+    "claim_text": "The policyholder or the driver must be legally responsible for the damage to the temporary substitute automobile, either through liability imposed by law or agreed to by the policyholder or the driver, for coverage to apply.",
+    "cited_chunk_ids": [
+      "c_075"
+    ]
+  },
+  {
+    "question_id": "q10",
+    "claim_id": "q10_c8",
+    "claim_text": "If the owner of the temporary substitute automobile has no collision insurance, the insurer will pay for the direct damage for which the policyholder is legally responsible minus the policyholder's policy deductible for that peril.",
+    "cited_chunk_ids": [
+      "c_075"
+    ]
+  },
+  {
+    "question_id": "q10",
+    "claim_id": "q10_c9",
+    "claim_text": "If the owner of the temporary substitute automobile also has collision insurance, the most the insurer will pay is the difference between the owner's deductible and the policyholder's deductible.",
+    "cited_chunk_ids": [
+      "c_075"
+    ]
+  },
+  {
+    "question_id": "q10",
+    "claim_id": "q10_c10",
+    "claim_text": "When both the owner of the temporary substitute automobile and the policyholder have collision insurance, the owner's deductible is the larger deductible and the policyholder's deductible is the smaller deductible.",
+    "cited_chunk_ids": [
+      "c_075"
+    ]
+  },
+  {
+    "question_id": "q10",
+    "claim_id": "q10_c11",
+    "claim_text": "When the owner of the temporary substitute automobile also has collision insurance, the insurer will pay the difference between the two deductibles, not the full repair cost.",
+    "cited_chunk_ids": [
+      "c_075"
+    ]
+  },
+  {
+    "question_id": "q11",
+    "claim_id": "q11_c1",
+    "claim_text": "Liability Coverage is explicitly exempted from the war activities exclusion.",
+    "cited_chunk_ids": [
+      "c_014"
+    ]
+  },
+  {
+    "question_id": "q11",
+    "claim_id": "q11_c2",
+    "claim_text": "The war activities exclusion does not apply to Liability Coverage.",
+    "cited_chunk_ids": [
+      "c_014"
+    ]
+  },
+  {
+    "question_id": "q11",
+    "claim_id": "q11_c3",
+    "claim_text": "The policy does not cover loss, damage, injury or death caused by war activities, except under Liability Coverage.",
+    "cited_chunk_ids": [
+      "c_014"
+    ]
+  },
+  {
+    "question_id": "q11",
+    "claim_id": "q11_c4",
+    "claim_text": "Other restrictions on the war activities exclusion apply to Accident Benefits coverage.",
+    "cited_chunk_ids": [
+      "c_014"
+    ]
+  },
+  {
+    "question_id": "q11",
+    "claim_id": "q11_c5",
+    "claim_text": "Other restrictions on the war activities exclusion apply to optional Loss or Damage coverages.",
+    "cited_chunk_ids": [
+      "c_014"
+    ]
+  },
+  {
+    "question_id": "q12",
+    "claim_id": "q12_c1",
+    "claim_text": "The deductible for collision coverage, if any, is shown on the Certificate of Automobile Insurance.",
+    "cited_chunk_ids": [
+      "c_072"
+    ]
+  },
+  {
+    "question_id": "q13",
+    "claim_id": "q13_c1",
+    "claim_text": "The Income Replacement Benefit is an optional benefit.",
+    "cited_chunk_ids": [
+      "c_040"
+    ]
+  },
+  {
+    "question_id": "q13",
+    "claim_id": "q13_c2",
+    "claim_text": "The Income Replacement Benefit may compensate insured persons for lost income.",
+    "cited_chunk_ids": [
+      "c_040"
+    ]
+  },
+  {
+    "question_id": "q14",
+    "claim_id": "q14_c1",
+    "claim_text": "Responsibility for an accident is determined by the Insurance Act (Ontario) and the Fault Determination Rules.",
+    "cited_chunk_ids": [
+      "c_061"
+    ]
+  },
+  {
+    "question_id": "q14",
+    "claim_id": "q14_c2",
+    "claim_text": "The Fault Determination Rules may find the insured or the driver wholly or partially responsible for an accident.",
+    "cited_chunk_ids": [
+      "c_061"
+    ]
+  },
+  {
+    "question_id": "q15",
+    "claim_id": "q15_c1",
+    "claim_text": "If a described automobile is stolen, the insurer will pay reasonable expenses for a rental substitute automobile.",
+    "cited_chunk_ids": [
+      "c_076"
+    ]
+  },
+  {
+    "question_id": "q15",
+    "claim_id": "q15_c2",
+    "claim_text": "The rental substitute automobile benefit applies only if the insured has All Perils, Comprehensive, or Specified Perils coverage.",
+    "cited_chunk_ids": [
+      "c_076"
+    ]
+  },
+  {
+    "question_id": "q15",
+    "claim_id": "q15_c3",
+    "claim_text": "The maximum amount the insurer will pay for a rental substitute automobile when a described automobile is stolen is $900.",
+    "cited_chunk_ids": [
+      "c_076"
+    ]
+  },
+  {
+    "question_id": "q16",
+    "claim_id": "q16_c1",
+    "claim_text": "If you drive a temporary substitute automobile and are responsible for damage to it, the policy will pay for direct damage for which you are legally responsible.",
+    "cited_chunk_ids": [
+      "c_075"
+    ]
+  },
+  {
+    "question_id": "q16",
+    "claim_id": "q16_c2",
+    "claim_text": "The amount paid for direct damage to a temporary substitute automobile is reduced by the applicable deductible.",
+    "cited_chunk_ids": [
+      "c_075"
+    ]
+  },
+  {
+    "question_id": "q16",
+    "claim_id": "q16_c3",
+    "claim_text": "Renting a car to replace your own vehicle while it is being repaired following an accident is an example of using a temporary substitute automobile.",
+    "cited_chunk_ids": [
+      "c_075"
+    ]
+  },
+  {
+    "question_id": "q16",
+    "claim_id": "q16_c4",
+    "claim_text": "If the rental company's collision deductible is larger than the policyholder's deductible, the policy would pay the difference between the two deductibles.",
+    "cited_chunk_ids": [
+      "c_075"
+    ]
+  }
+]

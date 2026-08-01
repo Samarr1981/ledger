@@ -1,0 +1,281 @@
+[
+  {
+    "claim_id": "q10_c11",
+    "claim_text": "When the owner of the temporary substitute automobile also has collision insurance, the insurer will pay the difference between the two deductibles, not the full repair cost.",
+    "cited_chunks": [
+      {
+        "chunk_id": "c_075",
+        "text": "7.4.3 Temporary Substitute Automobile Covered If you or anyone else drives a temporary substitute automobile (described in Section 2), you may be responsible for any damage to it as a result of liability imposed by law or agreed to by you or the driver. In that case, we will pay for direct damage for which you or the driver are legally responsible, minus the deductible for that peril under this policy. However, if the owner of the substitute automobile has it insured for such losses, and the deductible on that policy is larger than the one on your own policy for such loss, the most we will pay will be the difference between the two deductibles. If there is a disagreement over who is responsible for the damage, we have the right just as we would under Section 3 - Liability Coverage, to settle the matter appropriately and we will cover the costs of any investigation, negotiation or lawsuit. Example #1 You rent a car to replace your own, which is being repaired following an accident. While driving the rental car, you cause $800 worth of damage to it. The rental company has a collision policy with a $1,000 deductible. The Collision deductible in your policy is only $500. In settling the matter, we will pay $300 ($800 less $500). Example #2 You rent a car to replace your own, which is being repaired following an accident. While driving the rental car, you cause $2,800 worth of damage to it. The rental company has a collision policy with a $1,000 deductible. The Collision deductible in your policy is only $500. In settling the matter, we will pay $500, the difference between the deductibles."
+      }
+    ],
+    "verdict": "SUPPORTED"
+  },
+  {
+    "claim_id": "q15_c2",
+    "claim_text": "The rental substitute automobile reimbursement benefit requires the insured to have All Perils, Comprehensive, or Specified Perils coverage.",
+    "cited_chunks": [
+      {
+        "chunk_id": "c_076",
+        "text": "7.4.4 Loss of Use Due to Theft If a described automobile is stolen, and you are protected by the All Perils, Comprehensive, or Specified Perils options, we will pay reasonable expenses for the rental of a similar substitute automobile. If you choose not to rent an automobile, we will pay reasonable expenses incurred for taxis or public transportation. We won’t cover these costs until 72 hours after the theft has been reported to us or to the police. Even if your policy expires after the theft, coverage will continue until your automobile is repaired or replaced, or sooner if money is offered to settle the claim. The most we will pay in either case for such expenses is $900."
+      }
+    ],
+    "verdict": "SUPPORTED"
+  },
+  {
+    "claim_id": "q10_c5",
+    "claim_text": "The applicable optional Loss or Damage Coverage must have been purchased on the described automobile that is temporarily out of service for a temporary substitute automobile to qualify for coverage.",
+    "cited_chunks": [
+      {
+        "chunk_id": "c_018",
+        "text": "2.2.1 Newly Acquired Automobiles A newly acquired automobile is an automobile or trailer that you acquire as owner and that is not covered under any other policy. It can be either a replacement or an additional automobile. The replacement automobile will have the same coverage as the described automobile it replaces. We will cover an additional automobile as long as:\n• we insure all automobiles you own, and\n• any claim you make for the additional automobile is made against a coverage we provide for all your other automobiles. Your newly acquired automobile(s) will be insured as long as you inform us within 14 days from the time of delivery and pay any additional premium required. We may inspect the newly acquired vehicle and its equipment at any reasonable time. Special Condition: Coverage is not extended to a newly acquired automobile if you are in the business of selling automobiles. 2.2.2 Temporary Substitute Automobile A temporary substitute automobile is an automobile that is temporarily used while a described automobile is out of service. The described automobile must not be in use by anyone insured by this policy, because of its breakdown, repair, servicing, theft, sale or destruction. Coverage for a temporary substitute automobile is provided under the automobile policy of the owner of the temporary substitute automobile. However, this policy may also provide coverage. The following coverages apply to a temporary substitute automobile if a premium is shown for them on the Certificate of Automobile Insurance for the described automobile that is temporarily out of service:\n• Liability,\n• Accident Benefits,\n• Uninsured Automobile, and\n• Direct Compensation -Property Damage If you have purchased optional Loss or Damage Coverages on a described automobile and it is temporarily out of service, there are special conditions about this coverage for temporary substitute automobiles. These conditions are explained in Section 7 -Loss or Damage Coverages of this policy. Special Condition: A temporary substitute automobile cannot be owned by you or by anyone living in the same dwelling as you."
+      }
+    ],
+    "verdict": "SUPPORTED"
+  },
+  {
+    "claim_id": "q06_c7",
+    "claim_text": "Electronic accessories and equipment includes compact disc players.",
+    "cited_chunks": [
+      {
+        "chunk_id": "c_079",
+        "text": "7.7 What We Will Pay We will not pay more for the automobile than its actual cash value at the time it was damaged or stolen, less the deductible shown in your Certificate of Automobile Insurance. The value of the loss or damage is also based on actual cash value after taking into account depreciation. We will not pay more to repair the automobile than its actual cash value at the time it was damaged or stolen, less the deductible. We will pay the lower of the following:\n• the cost to repair the loss or damage, less the deductible; or\n• the actual cash value of the automobile at the time it was damaged or stolen, less the deductible. Example When your automobile was new, three years ago, it cost $16,000. Today, its actual cash value is $10,000. You have the optional Comprehensive Coverage and your deductible is $500. If the automobile were totally destroyed in a fire or by lightning, the most we would pay under the optional coverage is $10,000. If the automobile were stolen, the most we would pay under the optional coverage is $9,500 ($10,000 - $500). We will not pay more than $1,500 for loss or damage to electronic accessories or equipment other than factory installed equipment. We will pay the actual cash value of the equipment up to $1,500 in total. “Electronic accessories and equipment” includes, but is not limited to, radios, tape players/decks, stereo players/decks, compact disc players, speakers, telephones, two-way radios including CB radios, ham radios and VHF radios, televisions, facsimile machines, electronic navigation assistance, positioning and location finding devices, computers, and items of a similar nature. “Factory installed equipment” means electronic accessories and equipment which was included in the original new purchase price of the automobile."
+      }
+    ],
+    "verdict": "SUPPORTED"
+  },
+  {
+    "claim_id": "q10_c6",
+    "claim_text": "A premium for the applicable optional Loss or Damage Coverage must be shown on the Certificate of Automobile Insurance for a temporary substitute automobile to qualify for coverage.",
+    "cited_chunks": [
+      {
+        "chunk_id": "c_018",
+        "text": "2.2.1 Newly Acquired Automobiles A newly acquired automobile is an automobile or trailer that you acquire as owner and that is not covered under any other policy. It can be either a replacement or an additional automobile. The replacement automobile will have the same coverage as the described automobile it replaces. We will cover an additional automobile as long as:\n• we insure all automobiles you own, and\n• any claim you make for the additional automobile is made against a coverage we provide for all your other automobiles. Your newly acquired automobile(s) will be insured as long as you inform us within 14 days from the time of delivery and pay any additional premium required. We may inspect the newly acquired vehicle and its equipment at any reasonable time. Special Condition: Coverage is not extended to a newly acquired automobile if you are in the business of selling automobiles. 2.2.2 Temporary Substitute Automobile A temporary substitute automobile is an automobile that is temporarily used while a described automobile is out of service. The described automobile must not be in use by anyone insured by this policy, because of its breakdown, repair, servicing, theft, sale or destruction. Coverage for a temporary substitute automobile is provided under the automobile policy of the owner of the temporary substitute automobile. However, this policy may also provide coverage. The following coverages apply to a temporary substitute automobile if a premium is shown for them on the Certificate of Automobile Insurance for the described automobile that is temporarily out of service:\n• Liability,\n• Accident Benefits,\n• Uninsured Automobile, and\n• Direct Compensation -Property Damage If you have purchased optional Loss or Damage Coverages on a described automobile and it is temporarily out of service, there are special conditions about this coverage for temporary substitute automobiles. These conditions are explained in Section 7 -Loss or Damage Coverages of this policy. Special Condition: A temporary substitute automobile cannot be owned by you or by anyone living in the same dwelling as you."
+      }
+    ],
+    "verdict": "SUPPORTED"
+  },
+  {
+    "claim_id": "q04_c10",
+    "claim_text": "Comprehensive coverage covers losses caused by riot or civil disturbance.",
+    "cited_chunks": [
+      {
+        "chunk_id": "c_069",
+        "text": "7.1.2 Coverage Options You may choose from among the four types of protection listed below. Your choice will be shown on the Certificate of Automobile Insurance. Note: All of the following coverages are subject to 7.2 . A. Specified Perils -we will only pay for losses caused by fire; theft or attempted theft; lightning, windstorm, hail, or rising water; earthquake; explosion; riot or civil disturbance; falling or forced landing of aircraft or parts of aircraft; or the stranding, sinking, burning, derailment or collision of any kind of transport in, or upon which a described automobile is being carried on land or water. B. Comprehensive -we will pay for losses, other than those covered by Collision or Upset, including:\n• perils listed under Specified Perils,\n• falling or flying objects,\n• missiles, and\n• vandalism. C. Collision or Upset -we will pay for losses caused when a described automobile is involved in a collision with another object or tips over. Object includes:\n• another automobile that is attached to the automobile,\n• the surface of the ground, and\n• any object in or on the ground. This coverage cannot be issued or offered to you if you have made an election not to recover damages from us under Section 6, Direct Compensation - Property Damage Coverage. D. All Perils -this option combines the coverages of Collision or Upset and Comprehensive. This coverage includes loss or damage caused if a person who lives in your household steals a described automobile. Coverage also applies if an employee who drives or uses, services or repairs a described automobile, steals it."
+      }
+    ],
+    "verdict": "UNSUPPORTED"
+  },
+  {
+    "claim_id": "q06_c2",
+    "claim_text": "The insurer will pay the actual cash value of electronic accessories or equipment other than factory installed equipment.",
+    "cited_chunks": [
+      {
+        "chunk_id": "c_079",
+        "text": "7.7 What We Will Pay We will not pay more for the automobile than its actual cash value at the time it was damaged or stolen, less the deductible shown in your Certificate of Automobile Insurance. The value of the loss or damage is also based on actual cash value after taking into account depreciation. We will not pay more to repair the automobile than its actual cash value at the time it was damaged or stolen, less the deductible. We will pay the lower of the following:\n• the cost to repair the loss or damage, less the deductible; or\n• the actual cash value of the automobile at the time it was damaged or stolen, less the deductible. Example When your automobile was new, three years ago, it cost $16,000. Today, its actual cash value is $10,000. You have the optional Comprehensive Coverage and your deductible is $500. If the automobile were totally destroyed in a fire or by lightning, the most we would pay under the optional coverage is $10,000. If the automobile were stolen, the most we would pay under the optional coverage is $9,500 ($10,000 - $500). We will not pay more than $1,500 for loss or damage to electronic accessories or equipment other than factory installed equipment. We will pay the actual cash value of the equipment up to $1,500 in total. “Electronic accessories and equipment” includes, but is not limited to, radios, tape players/decks, stereo players/decks, compact disc players, speakers, telephones, two-way radios including CB radios, ham radios and VHF radios, televisions, facsimile machines, electronic navigation assistance, positioning and location finding devices, computers, and items of a similar nature. “Factory installed equipment” means electronic accessories and equipment which was included in the original new purchase price of the automobile."
+      }
+    ],
+    "verdict": "CONTRADICTED"
+  },
+  {
+    "claim_id": "q04_c11",
+    "claim_text": "Comprehensive coverage covers losses caused by falling or forced landing of aircraft or parts of aircraft.",
+    "cited_chunks": [
+      {
+        "chunk_id": "c_069",
+        "text": "7.1.2 Coverage Options You may choose from among the four types of protection listed below. Your choice will be shown on the Certificate of Automobile Insurance. Note: All of the following coverages are subject to 7.2 . A. Specified Perils -we will only pay for losses caused by fire; theft or attempted theft; lightning, windstorm, hail, or rising water; earthquake; explosion; riot or civil disturbance; falling or forced landing of aircraft or parts of aircraft; or the stranding, sinking, burning, derailment or collision of any kind of transport in, or upon which a described automobile is being carried on land or water. B. Comprehensive -we will pay for losses, other than those covered by Collision or Upset, including:\n• perils listed under Specified Perils,\n• falling or flying objects,\n• missiles, and\n• vandalism. C. Collision or Upset -we will pay for losses caused when a described automobile is involved in a collision with another object or tips over. Object includes:\n• another automobile that is attached to the automobile,\n• the surface of the ground, and\n• any object in or on the ground. This coverage cannot be issued or offered to you if you have made an election not to recover damages from us under Section 6, Direct Compensation - Property Damage Coverage. D. All Perils -this option combines the coverages of Collision or Upset and Comprehensive. This coverage includes loss or damage caused if a person who lives in your household steals a described automobile. Coverage also applies if an employee who drives or uses, services or repairs a described automobile, steals it."
+      }
+    ],
+    "verdict": "PARTIAL"
+  },
+  {
+    "claim_id": "q04_c14",
+    "claim_text": "Comprehensive coverage covers losses caused by missiles.",
+    "cited_chunks": [
+      {
+        "chunk_id": "c_069",
+        "text": "7.1.2 Coverage Options You may choose from among the four types of protection listed below. Your choice will be shown on the Certificate of Automobile Insurance. Note: All of the following coverages are subject to 7.2 . A. Specified Perils -we will only pay for losses caused by fire; theft or attempted theft; lightning, windstorm, hail, or rising water; earthquake; explosion; riot or civil disturbance; falling or forced landing of aircraft or parts of aircraft; or the stranding, sinking, burning, derailment or collision of any kind of transport in, or upon which a described automobile is being carried on land or water. B. Comprehensive -we will pay for losses, other than those covered by Collision or Upset, including:\n• perils listed under Specified Perils,\n• falling or flying objects,\n• missiles, and\n• vandalism. C. Collision or Upset -we will pay for losses caused when a described automobile is involved in a collision with another object or tips over. Object includes:\n• another automobile that is attached to the automobile,\n• the surface of the ground, and\n• any object in or on the ground. This coverage cannot be issued or offered to you if you have made an election not to recover damages from us under Section 6, Direct Compensation - Property Damage Coverage. D. All Perils -this option combines the coverages of Collision or Upset and Comprehensive. This coverage includes loss or damage caused if a person who lives in your household steals a described automobile. Coverage also applies if an employee who drives or uses, services or repairs a described automobile, steals it."
+      }
+    ],
+    "verdict": "SUPPORTED"
+  },
+  {
+    "claim_id": "q08_c7",
+    "claim_text": "Property damage coverage only applies when the responsible driver is identified.",
+    "cited_chunks": [
+      {
+        "chunk_id": "c_047",
+        "text": "5.2.1 Claims by You or Other Insured Persons for Bodily Injury We will pay any amounts you or other insured persons have a legal right to recover as damages from the owner or driver of an uninsured or unidentified automobile for bodily injury resulting from an accident involving an automobile, up to the limits in this Section. 5.2.2 Claims by Others for Bodily Injury or Death We will pay any amounts any person has a legal right to recover as damages from the owner or driver of an uninsured or unidentified automobile for bodily injury or death of an insured person in an accident involving an automobile, up to the limits in this Section. 5.2.3 Claims for Certain Property Damage We will pay for damage to and for loss of use of the automobile or its contents, or to both, that you or other insured persons have a legal right to recover from the identified owner or driver of an uninsured automobile in an accident involving an automobile. Subject to the $300 deductible, we will pay up to $25,000. Note: Damage to the automobile caused by an unidentified automobile is not covered under this Section, but optional Loss or Damage Coverages may be available."
+      },
+      {
+        "chunk_id": "c_047",
+        "text": "5.2.1 Claims by You or Other Insured Persons for Bodily Injury We will pay any amounts you or other insured persons have a legal right to recover as damages from the owner or driver of an uninsured or unidentified automobile for bodily injury resulting from an accident involving an automobile, up to the limits in this Section. 5.2.2 Claims by Others for Bodily Injury or Death We will pay any amounts any person has a legal right to recover as damages from the owner or driver of an uninsured or unidentified automobile for bodily injury or death of an insured person in an accident involving an automobile, up to the limits in this Section. 5.2.3 Claims for Certain Property Damage We will pay for damage to and for loss of use of the automobile or its contents, or to both, that you or other insured persons have a legal right to recover from the identified owner or driver of an uninsured automobile in an accident involving an automobile. Subject to the $300 deductible, we will pay up to $25,000. Note: Damage to the automobile caused by an unidentified automobile is not covered under this Section, but optional Loss or Damage Coverages may be available."
+      }
+    ],
+    "verdict": "SUPPORTED"
+  },
+  {
+    "claim_id": "q16_c4",
+    "claim_text": "If the rental company's collision deductible is larger than the policyholder's deductible, the policy would pay the difference between the two deductibles.",
+    "cited_chunks": [
+      {
+        "chunk_id": "c_075",
+        "text": "7.4.3 Temporary Substitute Automobile Covered If you or anyone else drives a temporary substitute automobile (described in Section 2), you may be responsible for any damage to it as a result of liability imposed by law or agreed to by you or the driver. In that case, we will pay for direct damage for which you or the driver are legally responsible, minus the deductible for that peril under this policy. However, if the owner of the substitute automobile has it insured for such losses, and the deductible on that policy is larger than the one on your own policy for such loss, the most we will pay will be the difference between the two deductibles. If there is a disagreement over who is responsible for the damage, we have the right just as we would under Section 3 - Liability Coverage, to settle the matter appropriately and we will cover the costs of any investigation, negotiation or lawsuit. Example #1 You rent a car to replace your own, which is being repaired following an accident. While driving the rental car, you cause $800 worth of damage to it. The rental company has a collision policy with a $1,000 deductible. The Collision deductible in your policy is only $500. In settling the matter, we will pay $300 ($800 less $500). Example #2 You rent a car to replace your own, which is being repaired following an accident. While driving the rental car, you cause $2,800 worth of damage to it. The rental company has a collision policy with a $1,000 deductible. The Collision deductible in your policy is only $500. In settling the matter, we will pay $500, the difference between the deductibles."
+      }
+    ],
+    "verdict": "PARTIAL"
+  },
+  {
+    "claim_id": "q11_c5",
+    "claim_text": "Other restrictions on the war activities exclusion apply to optional Loss or Damage coverages.",
+    "cited_chunks": [
+      {
+        "chunk_id": "c_014",
+        "text": "1.8.4 Garage Workers Not Covered No person who sells, repairs, maintains, stores, services, or parks automobiles as part of a business is covered by this policy while involved in conducting that business, unless the person in fact owns the automobile involved in an incident or is the partner or employee of the owner. 1.8.5 Losses Due to War Activities Not Covered With the exception of Liability Coverage, this policy does not cover loss, damage, injury or death caused by war activities. War activities include bombardment, invasion, civil war, insurrection, rebellion, revolution, coup, or actions of armed forces while engaged in a war, whether declared or not. Other restrictions apply to specific coverages, such as Accident Benefits and optional Loss or Damage coverages. These additional restrictions will be described in the appropriate Sections of this policy."
+      }
+    ],
+    "verdict": "SUPPORTED"
+  },
+  {
+    "claim_id": "q15_c1",
+    "claim_text": "If a described automobile is stolen, the insurer will pay reasonable expenses for a rental substitute automobile.",
+    "cited_chunks": [
+      {
+        "chunk_id": "c_076",
+        "text": "7.4.4 Loss of Use Due to Theft If a described automobile is stolen, and you are protected by the All Perils, Comprehensive, or Specified Perils options, we will pay reasonable expenses for the rental of a similar substitute automobile. If you choose not to rent an automobile, we will pay reasonable expenses incurred for taxis or public transportation. We won’t cover these costs until 72 hours after the theft has been reported to us or to the police. Even if your policy expires after the theft, coverage will continue until your automobile is repaired or replaced, or sooner if money is offered to settle the claim. The most we will pay in either case for such expenses is $900."
+      }
+    ],
+    "verdict": "PARTIAL"
+  },
+  {
+    "claim_id": "q04_c20",
+    "claim_text": "Comprehensive coverage covers falling objects but Collision or Upset coverage does not.",
+    "cited_chunks": [
+      {
+        "chunk_id": "c_069",
+        "text": "7.1.2 Coverage Options You may choose from among the four types of protection listed below. Your choice will be shown on the Certificate of Automobile Insurance. Note: All of the following coverages are subject to 7.2 . A. Specified Perils -we will only pay for losses caused by fire; theft or attempted theft; lightning, windstorm, hail, or rising water; earthquake; explosion; riot or civil disturbance; falling or forced landing of aircraft or parts of aircraft; or the stranding, sinking, burning, derailment or collision of any kind of transport in, or upon which a described automobile is being carried on land or water. B. Comprehensive -we will pay for losses, other than those covered by Collision or Upset, including:\n• perils listed under Specified Perils,\n• falling or flying objects,\n• missiles, and\n• vandalism. C. Collision or Upset -we will pay for losses caused when a described automobile is involved in a collision with another object or tips over. Object includes:\n• another automobile that is attached to the automobile,\n• the surface of the ground, and\n• any object in or on the ground. This coverage cannot be issued or offered to you if you have made an election not to recover damages from us under Section 6, Direct Compensation - Property Damage Coverage. D. All Perils -this option combines the coverages of Collision or Upset and Comprehensive. This coverage includes loss or damage caused if a person who lives in your household steals a described automobile. Coverage also applies if an employee who drives or uses, services or repairs a described automobile, steals it."
+      }
+    ],
+    "verdict": "PARTIAL"
+  },
+  {
+    "claim_id": "q10_c10",
+    "claim_text": "When both the owner of the temporary substitute automobile and the policyholder have collision insurance, the owner's deductible is larger and the policyholder's deductible is smaller for purposes of calculating the payment.",
+    "cited_chunks": [
+      {
+        "chunk_id": "c_075",
+        "text": "7.4.3 Temporary Substitute Automobile Covered If you or anyone else drives a temporary substitute automobile (described in Section 2), you may be responsible for any damage to it as a result of liability imposed by law or agreed to by you or the driver. In that case, we will pay for direct damage for which you or the driver are legally responsible, minus the deductible for that peril under this policy. However, if the owner of the substitute automobile has it insured for such losses, and the deductible on that policy is larger than the one on your own policy for such loss, the most we will pay will be the difference between the two deductibles. If there is a disagreement over who is responsible for the damage, we have the right just as we would under Section 3 - Liability Coverage, to settle the matter appropriately and we will cover the costs of any investigation, negotiation or lawsuit. Example #1 You rent a car to replace your own, which is being repaired following an accident. While driving the rental car, you cause $800 worth of damage to it. The rental company has a collision policy with a $1,000 deductible. The Collision deductible in your policy is only $500. In settling the matter, we will pay $300 ($800 less $500). Example #2 You rent a car to replace your own, which is being repaired following an accident. While driving the rental car, you cause $2,800 worth of damage to it. The rental company has a collision policy with a $1,000 deductible. The Collision deductible in your policy is only $500. In settling the matter, we will pay $500, the difference between the deductibles."
+      }
+    ],
+    "verdict": "UNSUPPORTED"
+  },
+  {
+    "claim_id": "q06_c10",
+    "claim_text": "Electronic accessories and equipment includes two-way radios.",
+    "cited_chunks": [
+      {
+        "chunk_id": "c_079",
+        "text": "7.7 What We Will Pay We will not pay more for the automobile than its actual cash value at the time it was damaged or stolen, less the deductible shown in your Certificate of Automobile Insurance. The value of the loss or damage is also based on actual cash value after taking into account depreciation. We will not pay more to repair the automobile than its actual cash value at the time it was damaged or stolen, less the deductible. We will pay the lower of the following:\n• the cost to repair the loss or damage, less the deductible; or\n• the actual cash value of the automobile at the time it was damaged or stolen, less the deductible. Example When your automobile was new, three years ago, it cost $16,000. Today, its actual cash value is $10,000. You have the optional Comprehensive Coverage and your deductible is $500. If the automobile were totally destroyed in a fire or by lightning, the most we would pay under the optional coverage is $10,000. If the automobile were stolen, the most we would pay under the optional coverage is $9,500 ($10,000 - $500). We will not pay more than $1,500 for loss or damage to electronic accessories or equipment other than factory installed equipment. We will pay the actual cash value of the equipment up to $1,500 in total. “Electronic accessories and equipment” includes, but is not limited to, radios, tape players/decks, stereo players/decks, compact disc players, speakers, telephones, two-way radios including CB radios, ham radios and VHF radios, televisions, facsimile machines, electronic navigation assistance, positioning and location finding devices, computers, and items of a similar nature. “Factory installed equipment” means electronic accessories and equipment which was included in the original new purchase price of the automobile."
+      }
+    ],
+    "verdict": "SUPPORTED"
+  },
+  {
+    "claim_id": "q10_c9",
+    "claim_text": "If the owner of the temporary substitute automobile also has collision insurance, the most the insurer will pay is the difference between the owner's deductible and the policyholder's deductible.",
+    "cited_chunks": [
+      {
+        "chunk_id": "c_075",
+        "text": "7.4.3 Temporary Substitute Automobile Covered If you or anyone else drives a temporary substitute automobile (described in Section 2), you may be responsible for any damage to it as a result of liability imposed by law or agreed to by you or the driver. In that case, we will pay for direct damage for which you or the driver are legally responsible, minus the deductible for that peril under this policy. However, if the owner of the substitute automobile has it insured for such losses, and the deductible on that policy is larger than the one on your own policy for such loss, the most we will pay will be the difference between the two deductibles. If there is a disagreement over who is responsible for the damage, we have the right just as we would under Section 3 - Liability Coverage, to settle the matter appropriately and we will cover the costs of any investigation, negotiation or lawsuit. Example #1 You rent a car to replace your own, which is being repaired following an accident. While driving the rental car, you cause $800 worth of damage to it. The rental company has a collision policy with a $1,000 deductible. The Collision deductible in your policy is only $500. In settling the matter, we will pay $300 ($800 less $500). Example #2 You rent a car to replace your own, which is being repaired following an accident. While driving the rental car, you cause $2,800 worth of damage to it. The rental company has a collision policy with a $1,000 deductible. The Collision deductible in your policy is only $500. In settling the matter, we will pay $500, the difference between the deductibles."
+      }
+    ],
+    "verdict": "PARTIAL"
+  },
+  {
+    "claim_id": "q10_c8",
+    "claim_text": "If the owner of the temporary substitute automobile has no collision insurance, the insurer will pay for the direct damage for which the policyholder is legally responsible minus the policy's deductible for that peril.",
+    "cited_chunks": [
+      {
+        "chunk_id": "c_075",
+        "text": "7.4.3 Temporary Substitute Automobile Covered If you or anyone else drives a temporary substitute automobile (described in Section 2), you may be responsible for any damage to it as a result of liability imposed by law or agreed to by you or the driver. In that case, we will pay for direct damage for which you or the driver are legally responsible, minus the deductible for that peril under this policy. However, if the owner of the substitute automobile has it insured for such losses, and the deductible on that policy is larger than the one on your own policy for such loss, the most we will pay will be the difference between the two deductibles. If there is a disagreement over who is responsible for the damage, we have the right just as we would under Section 3 - Liability Coverage, to settle the matter appropriately and we will cover the costs of any investigation, negotiation or lawsuit. Example #1 You rent a car to replace your own, which is being repaired following an accident. While driving the rental car, you cause $800 worth of damage to it. The rental company has a collision policy with a $1,000 deductible. The Collision deductible in your policy is only $500. In settling the matter, we will pay $300 ($800 less $500). Example #2 You rent a car to replace your own, which is being repaired following an accident. While driving the rental car, you cause $2,800 worth of damage to it. The rental company has a collision policy with a $1,000 deductible. The Collision deductible in your policy is only $500. In settling the matter, we will pay $500, the difference between the deductibles."
+      }
+    ],
+    "verdict": "SUPPORTED"
+  },
+  {
+    "claim_id": "q08_c3",
+    "claim_text": "If an accident results in $350,000 in bodily injury claims and $20,000 in property damage but the maximum payable is $200,000, then $190,000 (95%) goes toward bodily injury payments.",
+    "cited_chunks": [
+      {
+        "chunk_id": "c_052",
+        "text": "5.5 Claims for Both Bodily Injury and Property Damage An accident may result in a valid claim for both bodily injury or death and for damage to the automobile or its contents. In that case, payments for bodily injury and death have priority on 95% of the total amount payable. Payment for damage to the automobile or contents will have priority on 5%. Example An accident in Ontario for which an identified but uninsured driver is responsible destroys your $20,000 car, and results in injuries to you and your spouse, totalling $350,000. We will not pay more than the minimum liability limit of $200,000. Of that money, 95%, or $190,000, will go toward payment for bodily injury. The remaining 5%, or $10,000, will apply to the loss of your car."
+      }
+    ],
+    "verdict": "SUPPORTED"
+  },
+  {
+    "claim_id": "q02_c1",
+    "claim_text": "Coverage extends to other automobiles (not the described automobile) when driven by you or your spouse who lives with you.",
+    "cited_chunks": [
+      {
+        "chunk_id": "c_019",
+        "text": "2.2.3 Other Automobiles Automobiles, other than a described automobile, are also covered when driven by you, or driven by your spouse who lives with you. The following coverages apply to other automobiles if a premium is shown for the coverage on the Certificate of Automobile Insurance for a described automobile:\n• Liability,\n• Accident Benefits,\n• Uninsured Automobile, and\n• Direct Compensation -Property Damage Special Conditions: For other automobiles to be covered, the following conditions apply:\n1. Both the other automobile and a described automobile must not have a manufacturer’s gross vehicle weight rating (GVWR) of more than 4,500 kilograms.\n2. The named insured is an individual, or if the described automobile is owned by two people, the named insureds are spouses of each other.\n3. Neither you nor your spouse is driving the other automobile in connection with the business of selling, repairing, maintaining, storing, servicing or parking automobiles.\n4. The other automobile is not being used to carry paying passengers or to make commercial deliveries at the time of any loss.\n5. For all coverages, except Accident Benefits , the other automobile cannot be an automobile that you or anyone living in your dwelling owns or regularly uses. (For the purposes of this paragraph, we don’t consider use of an automobile rented for 30 or fewer days to be regular use.) Nor can the other automobile be owned, hired or leased by your employer or the employer of anyone living in your household. However, if you drive one of these other automobiles while an excluded driver under the policy for that automobile, this policy will provide Liability and Uninsured Automobile Coverages while you drive that automobile.\n6. If you are a corporation, unincorporated association, partnership, sole proprietorship, business or other entity , the employee or partner for whose regular use a described automobile is supplied, and their spouse who lives with that person, will be covered when they drive the other automobile, under the following conditions:\n• Both the other automobile and the described automobile must not have a manufacturer’s gross vehicle weight rating of more than 4,500 kilograms.\n• Neither the employee nor partner who is provided with a described automobile, nor their spouses if they live with the employee or partner, are driving the other automobile in connection with the business of selling, repairing, maintaining, storing, servicing or parking automobiles."
+      }
+    ],
+    "verdict": "PARTIAL"
+  },
+  {
+    "claim_id": "q04_c17",
+    "claim_text": "Comprehensive coverage covers theft but Collision or Upset coverage does not.",
+    "cited_chunks": [
+      {
+        "chunk_id": "c_069",
+        "text": "7.1.2 Coverage Options You may choose from among the four types of protection listed below. Your choice will be shown on the Certificate of Automobile Insurance. Note: All of the following coverages are subject to 7.2 . A. Specified Perils -we will only pay for losses caused by fire; theft or attempted theft; lightning, windstorm, hail, or rising water; earthquake; explosion; riot or civil disturbance; falling or forced landing of aircraft or parts of aircraft; or the stranding, sinking, burning, derailment or collision of any kind of transport in, or upon which a described automobile is being carried on land or water. B. Comprehensive -we will pay for losses, other than those covered by Collision or Upset, including:\n• perils listed under Specified Perils,\n• falling or flying objects,\n• missiles, and\n• vandalism. C. Collision or Upset -we will pay for losses caused when a described automobile is involved in a collision with another object or tips over. Object includes:\n• another automobile that is attached to the automobile,\n• the surface of the ground, and\n• any object in or on the ground. This coverage cannot be issued or offered to you if you have made an election not to recover damages from us under Section 6, Direct Compensation - Property Damage Coverage. D. All Perils -this option combines the coverages of Collision or Upset and Comprehensive. This coverage includes loss or damage caused if a person who lives in your household steals a described automobile. Coverage also applies if an employee who drives or uses, services or repairs a described automobile, steals it."
+      }
+    ],
+    "verdict": "SUPPORTED"
+  },
+  {
+    "claim_id": "q16_c1",
+    "claim_text": "If you drive a temporary substitute automobile and are responsible for damage to it, the policy will pay for direct damage for which you are legally responsible.",
+    "cited_chunks": [
+      {
+        "chunk_id": "c_075",
+        "text": "7.4.3 Temporary Substitute Automobile Covered If you or anyone else drives a temporary substitute automobile (described in Section 2), you may be responsible for any damage to it as a result of liability imposed by law or agreed to by you or the driver. In that case, we will pay for direct damage for which you or the driver are legally responsible, minus the deductible for that peril under this policy. However, if the owner of the substitute automobile has it insured for such losses, and the deductible on that policy is larger than the one on your own policy for such loss, the most we will pay will be the difference between the two deductibles. If there is a disagreement over who is responsible for the damage, we have the right just as we would under Section 3 - Liability Coverage, to settle the matter appropriately and we will cover the costs of any investigation, negotiation or lawsuit. Example #1 You rent a car to replace your own, which is being repaired following an accident. While driving the rental car, you cause $800 worth of damage to it. The rental company has a collision policy with a $1,000 deductible. The Collision deductible in your policy is only $500. In settling the matter, we will pay $300 ($800 less $500). Example #2 You rent a car to replace your own, which is being repaired following an accident. While driving the rental car, you cause $2,800 worth of damage to it. The rental company has a collision policy with a $1,000 deductible. The Collision deductible in your policy is only $500. In settling the matter, we will pay $500, the difference between the deductibles."
+      }
+    ],
+    "verdict": "PARTIAL"
+  },
+  {
+    "claim_id": "q06_c14",
+    "claim_text": "Electronic accessories and equipment includes positioning and location finding devices.",
+    "cited_chunks": [
+      {
+        "chunk_id": "c_079",
+        "text": "7.7 What We Will Pay We will not pay more for the automobile than its actual cash value at the time it was damaged or stolen, less the deductible shown in your Certificate of Automobile Insurance. The value of the loss or damage is also based on actual cash value after taking into account depreciation. We will not pay more to repair the automobile than its actual cash value at the time it was damaged or stolen, less the deductible. We will pay the lower of the following:\n• the cost to repair the loss or damage, less the deductible; or\n• the actual cash value of the automobile at the time it was damaged or stolen, less the deductible. Example When your automobile was new, three years ago, it cost $16,000. Today, its actual cash value is $10,000. You have the optional Comprehensive Coverage and your deductible is $500. If the automobile were totally destroyed in a fire or by lightning, the most we would pay under the optional coverage is $10,000. If the automobile were stolen, the most we would pay under the optional coverage is $9,500 ($10,000 - $500). We will not pay more than $1,500 for loss or damage to electronic accessories or equipment other than factory installed equipment. We will pay the actual cash value of the equipment up to $1,500 in total. “Electronic accessories and equipment” includes, but is not limited to, radios, tape players/decks, stereo players/decks, compact disc players, speakers, telephones, two-way radios including CB radios, ham radios and VHF radios, televisions, facsimile machines, electronic navigation assistance, positioning and location finding devices, computers, and items of a similar nature. “Factory installed equipment” means electronic accessories and equipment which was included in the original new purchase price of the automobile."
+      }
+    ],
+    "verdict": "SUPPORTED"
+  },
+  {
+    "claim_id": "q04_c18",
+    "claim_text": "Comprehensive coverage covers weather-related damage but Collision or Upset coverage does not.",
+    "cited_chunks": [
+      {
+        "chunk_id": "c_069",
+        "text": "7.1.2 Coverage Options You may choose from among the four types of protection listed below. Your choice will be shown on the Certificate of Automobile Insurance. Note: All of the following coverages are subject to 7.2 . A. Specified Perils -we will only pay for losses caused by fire; theft or attempted theft; lightning, windstorm, hail, or rising water; earthquake; explosion; riot or civil disturbance; falling or forced landing of aircraft or parts of aircraft; or the stranding, sinking, burning, derailment or collision of any kind of transport in, or upon which a described automobile is being carried on land or water. B. Comprehensive -we will pay for losses, other than those covered by Collision or Upset, including:\n• perils listed under Specified Perils,\n• falling or flying objects,\n• missiles, and\n• vandalism. C. Collision or Upset -we will pay for losses caused when a described automobile is involved in a collision with another object or tips over. Object includes:\n• another automobile that is attached to the automobile,\n• the surface of the ground, and\n• any object in or on the ground. This coverage cannot be issued or offered to you if you have made an election not to recover damages from us under Section 6, Direct Compensation - Property Damage Coverage. D. All Perils -this option combines the coverages of Collision or Upset and Comprehensive. This coverage includes loss or damage caused if a person who lives in your household steals a described automobile. Coverage also applies if an employee who drives or uses, services or repairs a described automobile, steals it."
+      }
+    ],
+    "verdict": "SUPPORTED"
+  },
+  {
+    "claim_id": "q03_c1",
+    "claim_text": "If unable to report an accident involving injury or property damage within seven days, the insured must report it as soon as possible after that.",
+    "cited_chunks": [
+      {
+        "chunk_id": "c_007",
+        "text": "1.4.1 You agree to notify us promptly in writing of any significant change of which you are aware in your status as a driver, owner or lessee of a described automobile. You also agree to let us know of any change that might increase the risk of an incident or affect our willingness to insure you at current rates. You must promptly tell us of any change in information supplied in your original application for insurance, such as additional drivers, or a change in the way a described automobile is used. 1.4.2 You agree to inform us of any sale or transfer of your interest in a described automobile except through change of title by succession, death or proceedings under the Bankruptcy and Insolvency Act (Canada). 1.4.3 If you have purchased optional Loss or Damage Coverages, you agree to inform us of any new lien (an interest by others), mortgage or loan that affects a described automobile, as well as any other insurance against loss or damage. 1.4.4 When you are involved in an auto accident involving injury or property damage, you need to report it to your insurance agent, broker, or insurance company within seven days, regardless of who is at fault. If you are unable to report the accident within seven days, report it as soon as possible after that. 1.4.5 You agree not to drive or operate the automobile, or allow anyone else to drive or operate the automobile, when not authorized by law. 1.4.6 You agree not to use or allow anyone to use the automobile in a race or speed test or for any illegal trade or transportation."
+      }
+    ],
+    "verdict": "SUPPORTED"
+  }
+]

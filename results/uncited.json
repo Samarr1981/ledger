@@ -1,0 +1,137 @@
+[
+  {
+    "question_id": "q01",
+    "uncited_sentence_count": 0,
+    "uncited_sentences": []
+  },
+  {
+    "question_id": "q02",
+    "uncited_sentence_count": 5,
+    "uncited_sentences": [
+      "Based on the provided excerpts, I cannot fully answer this question.",
+      "The excerpts do not contain a specific definition or list of who qualifies as an \"insured person\" under Liability Coverage when someone other than the named insured is driving the described automobile.",
+      "What the excerpts do tell us is limited to related but distinct scenarios:",
+      "The excerpts do not include the section of the policy that defines \"insured person\" under Liability Coverage (which would typically be found in the Liability Coverage section itself, such as Section 3).",
+      "To fully answer your question, that section would need to be provided."
+    ]
+  },
+  {
+    "question_id": "q03",
+    "uncited_sentence_count": 1,
+    "uncited_sentences": [
+      "Based on the policy excerpts, you must report an accident involving injury or property damage to your insurance agent, broker, or insurance company **within seven days**, regardless of who is at fault."
+    ]
+  },
+  {
+    "question_id": "q04",
+    "uncited_sentence_count": 0,
+    "uncited_sentences": []
+  },
+  {
+    "question_id": "q05",
+    "uncited_sentence_count": 3,
+    "uncited_sentences": [
+      "However, the excerpts do not explicitly state what specific consequence or penalty would result if you **refuse** to permit such an inspection.",
+      "The excerpts only outline the obligation to allow inspection, but do not detail the specific outcome of non-compliance with this requirement.",
+      "For a complete answer on the consequences of refusing an inspection, you would need to consult additional portions of the policy not included in the provided excerpts."
+    ]
+  },
+  {
+    "question_id": "q06",
+    "uncited_sentence_count": 0,
+    "uncited_sentences": []
+  },
+  {
+    "question_id": "q07",
+    "uncited_sentence_count": 1,
+    "uncited_sentences": [
+      "Based on the excerpts provided, under Uninsured Automobile Coverage (Section 5), the following applies to damage to your automobile and its contents:"
+    ]
+  },
+  {
+    "question_id": "q08",
+    "uncited_sentence_count": 1,
+    "uncited_sentences": [
+      "Based on the policy excerpts, when an accident results in valid claims for both bodily injury or death **and** property damage, the total amount payable is divided as follows:"
+    ]
+  },
+  {
+    "question_id": "q09",
+    "uncited_sentence_count": 9,
+    "uncited_sentences": [
+      "Deductible Calculations When 25% At Fault",
+      "Section 7 Collision Deductible",
+      "When you are partially at fault, your Section 7 Collision deductible is calculated by **multiplying your full Collision deductible by the percentage to which you were at fault**.",
+      "Direct Compensation – Property Damage (DC-PD) Deductible",
+      "The DC-PD deductible works in the **opposite direction** — it is calculated by multiplying the deductible shown on your Certificate of Automobile Insurance by the percentage to which you were **not** at fault.",
+      "Key Difference",
+      "| Coverage | Multiplied By |",
+      "| Section 7 Collision | Your **at-fault** percentage |",
+      "| DC-PD (Section 6) | Your **not-at-fault** percentage |"
+    ]
+  },
+  {
+    "question_id": "q10",
+    "uncited_sentence_count": 7,
+    "uncited_sentences": [
+      "Coverage for Damage to a Temporary Substitute Automobile",
+      "Conditions That Must Be Met",
+      "For a temporary substitute automobile to qualify for coverage, several conditions must be satisfied:",
+      "How Much the Insurer Will Pay",
+      "The calculation depends on whether the owner of the substitute automobile also carries collision insurance:",
+      "**Example:** You cause $2,800 in damage to a rental car.",
+      "The rental company has a $1,000 deductible; your policy has a $500 deductible."
+    ]
+  },
+  {
+    "question_id": "q11",
+    "uncited_sentence_count": 1,
+    "uncited_sentences": [
+      "Based on the excerpts provided, the war activities exclusion does **not** apply to every coverage in the policy."
+    ]
+  },
+  {
+    "question_id": "q12",
+    "uncited_sentence_count": 1,
+    "uncited_sentences": [
+      "Based on the provided excerpts, the policy does not specify a standard deductible amount for collision coverage."
+    ]
+  },
+  {
+    "question_id": "q13",
+    "uncited_sentence_count": 2,
+    "uncited_sentences": [
+      "Based on the excerpts provided, I cannot answer this question.",
+      "The excerpts do not contain any information about the maximum weekly amount payable under the Income Replacement Benefit."
+    ]
+  },
+  {
+    "question_id": "q14",
+    "uncited_sentence_count": 2,
+    "uncited_sentences": [
+      "The excerpts provided do not contain specific fault percentages for particular accident scenarios such as rear-ending a stopped vehicle.",
+      "Therefore, I cannot answer your specific question about the fault percentage for a rear-end collision using only the information provided."
+    ]
+  },
+  {
+    "question_id": "q15",
+    "uncited_sentence_count": 4,
+    "uncited_sentences": [
+      "Based on the excerpts provided, there is no specific coverage mentioned for renting a replacement vehicle while your car is being repaired after a collision.",
+      "The only rental car reimbursement benefit described in these excerpts is specifically limited to situations involving **theft**.",
+      "The excerpts do not contain any provision for loss-of-use or rental car coverage arising from a collision repair situation.",
+      "You would need to consult other parts of your policy not included in these excerpts to determine if such coverage exists."
+    ]
+  },
+  {
+    "question_id": "q16",
+    "uncited_sentence_count": 5,
+    "uncited_sentences": [
+      "Based on the policy excerpts provided, the answer depends on the circumstances of the rental.",
+      "However, there is an important condition — a **temporary substitute automobile** is defined as one used to *replace your own vehicle while it is being repaired or serviced*.",
+      "If your rental was simply for a weekend trip (i.e., your own car was still available and not being repaired), it may **not** qualify as a \"temporary substitute automobile,\" and this coverage might not apply.",
+      "Since the definition of \"temporary substitute automobile\" is referenced as being in Section 2 of the policy, but that section is **not included in the provided excerpts**, I cannot confirm with certainty whether a purely recreational rental qualifies.",
+      "You would need to review Section 2 for the precise definition."
+    ]
+  }
+]

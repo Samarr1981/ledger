@@ -1,0 +1,1500 @@
+[
+  {
+    "claim_id": "q01_c1",
+    "question_id": "q01",
+    "claim_text": "A motorized snow vehicle is included in the definition of automobile under this policy.",
+    "cited_chunk_ids": [
+      "c_004"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly states 'motorized snow vehicle is included in the definition of automobile' under this policy.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_004",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly states 'motorized snow vehicle is included in the definition of automobile' under this policy."
+      }
+    ]
+  },
+  {
+    "claim_id": "q02_c1",
+    "question_id": "q02",
+    "claim_text": "Coverage extends to other automobiles (not the described automobile) when driven by you or your spouse who lives with you.",
+    "cited_chunk_ids": [
+      "c_019"
+    ],
+    "verdict": "PARTIAL",
+    "reasoning": "The passage confirms that other automobiles are covered when driven by you or your spouse who lives with you, but it attaches numerous qualifying conditions (e.g., GVWR limits, no commercial use, no regular use by household members, etc.) that the claim omits entirely.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_019",
+        "verdict": "PARTIAL",
+        "reasoning": "The passage confirms that other automobiles are covered when driven by you or your spouse who lives with you, but it attaches numerous qualifying conditions (e.g., GVWR limits, no commercial use, no regular use by household members, etc.) that the claim omits entirely."
+      }
+    ]
+  },
+  {
+    "claim_id": "q02_c2",
+    "question_id": "q02",
+    "claim_text": "For corporate named insureds, the employee or partner for whose regular use a described automobile is supplied may be covered when driving other automobiles.",
+    "cited_chunk_ids": [
+      "c_019"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly states in condition 6 that if the named insured is a corporation or other entity, the employee or partner for whose regular use a described automobile is supplied will be covered when driving another automobile, directly supporting the claim.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_019",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly states in condition 6 that if the named insured is a corporation or other entity, the employee or partner for whose regular use a described automobile is supplied will be covered when driving another automobile, directly supporting the claim."
+      }
+    ]
+  },
+  {
+    "claim_id": "q02_c3",
+    "question_id": "q02",
+    "claim_text": "For corporate named insureds, the spouse (who lives with the employee or partner) of the employee or partner for whose regular use a described automobile is supplied may be covered when driving other automobiles.",
+    "cited_chunk_ids": [
+      "c_019"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "Condition 6 in the passage explicitly states that for corporate named insureds, the employee or partner for whose regular use a described automobile is supplied, and their spouse who lives with that person, will be covered when driving other automobiles, which directly supports the claim.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_019",
+        "verdict": "SUPPORTED",
+        "reasoning": "Condition 6 in the passage explicitly states that for corporate named insureds, the employee or partner for whose regular use a described automobile is supplied, and their spouse who lives with that person, will be covered when driving other automobiles, which directly supports the claim."
+      }
+    ]
+  },
+  {
+    "claim_id": "q03_c1",
+    "question_id": "q03",
+    "claim_text": "If unable to report an accident involving injury or property damage within seven days, the insured must report it as soon as possible after that.",
+    "cited_chunk_ids": [
+      "c_007"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "Passage 1.4.4 explicitly states that if unable to report the accident within seven days, the insured must 'report it as soon as possible after that,' which directly supports the claim.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_007",
+        "verdict": "SUPPORTED",
+        "reasoning": "Passage 1.4.4 explicitly states that if unable to report the accident within seven days, the insured must 'report it as soon as possible after that,' which directly supports the claim."
+      }
+    ]
+  },
+  {
+    "claim_id": "q04_c1",
+    "question_id": "q04",
+    "claim_text": "Comprehensive coverage pays for losses other than those caused by collision or upset.",
+    "cited_chunk_ids": [
+      "c_069"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage states under Comprehensive coverage that 'we will pay for losses, other than those covered by Collision or Upset,' which directly supports the claim.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_069",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage states under Comprehensive coverage that 'we will pay for losses, other than those covered by Collision or Upset,' which directly supports the claim."
+      }
+    ]
+  },
+  {
+    "claim_id": "q04_c2",
+    "question_id": "q04",
+    "claim_text": "Comprehensive coverage covers losses caused by fire.",
+    "cited_chunk_ids": [
+      "c_069"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage states that Comprehensive coverage includes 'perils listed under Specified Perils,' and Specified Perils explicitly includes losses caused by fire, so Comprehensive coverage does cover fire losses.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_069",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage states that Comprehensive coverage includes 'perils listed under Specified Perils,' and Specified Perils explicitly includes losses caused by fire, so Comprehensive coverage does cover fire losses."
+      }
+    ]
+  },
+  {
+    "claim_id": "q04_c3",
+    "question_id": "q04",
+    "claim_text": "Comprehensive coverage covers losses caused by theft or attempted theft.",
+    "cited_chunk_ids": [
+      "c_069"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage states that Comprehensive coverage includes 'perils listed under Specified Perils,' and Specified Perils explicitly includes 'theft or attempted theft,' so Comprehensive coverage does cover losses caused by theft or attempted theft.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_069",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage states that Comprehensive coverage includes 'perils listed under Specified Perils,' and Specified Perils explicitly includes 'theft or attempted theft,' so Comprehensive coverage does cover losses caused by theft or attempted theft."
+      }
+    ]
+  },
+  {
+    "claim_id": "q04_c4",
+    "question_id": "q04",
+    "claim_text": "Comprehensive coverage covers losses caused by lightning.",
+    "cited_chunk_ids": [
+      "c_069"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "Comprehensive coverage includes 'perils listed under Specified Perils,' and Specified Perils explicitly includes lightning, so Comprehensive coverage covers losses caused by lightning.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_069",
+        "verdict": "SUPPORTED",
+        "reasoning": "Comprehensive coverage includes 'perils listed under Specified Perils,' and Specified Perils explicitly includes lightning, so Comprehensive coverage covers losses caused by lightning."
+      }
+    ]
+  },
+  {
+    "claim_id": "q04_c5",
+    "question_id": "q04",
+    "claim_text": "Comprehensive coverage covers losses caused by windstorm.",
+    "cited_chunk_ids": [
+      "c_069"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "Comprehensive coverage includes perils listed under Specified Perils, which explicitly includes windstorm, so the passage directly supports the claim.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_069",
+        "verdict": "SUPPORTED",
+        "reasoning": "Comprehensive coverage includes perils listed under Specified Perils, which explicitly includes windstorm, so the passage directly supports the claim."
+      }
+    ]
+  },
+  {
+    "claim_id": "q04_c6",
+    "question_id": "q04",
+    "claim_text": "Comprehensive coverage covers losses caused by hail.",
+    "cited_chunk_ids": [
+      "c_069"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage states that Comprehensive coverage includes perils listed under Specified Perils, and Specified Perils explicitly includes hail, so Comprehensive coverage covers losses caused by hail.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_069",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage states that Comprehensive coverage includes perils listed under Specified Perils, and Specified Perils explicitly includes hail, so Comprehensive coverage covers losses caused by hail."
+      }
+    ]
+  },
+  {
+    "claim_id": "q04_c7",
+    "question_id": "q04",
+    "claim_text": "Comprehensive coverage covers losses caused by rising water.",
+    "cited_chunk_ids": [
+      "c_069"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "Comprehensive coverage includes all perils listed under Specified Perils, which explicitly includes 'rising water,' so the passage directly supports the claim.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_069",
+        "verdict": "SUPPORTED",
+        "reasoning": "Comprehensive coverage includes all perils listed under Specified Perils, which explicitly includes 'rising water,' so the passage directly supports the claim."
+      }
+    ]
+  },
+  {
+    "claim_id": "q04_c8",
+    "question_id": "q04",
+    "claim_text": "Comprehensive coverage covers losses caused by earthquake.",
+    "cited_chunk_ids": [
+      "c_069"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "Comprehensive coverage includes 'perils listed under Specified Perils,' and Specified Perils explicitly includes earthquake, so the passage directly supports that Comprehensive coverage covers losses caused by earthquake.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_069",
+        "verdict": "SUPPORTED",
+        "reasoning": "Comprehensive coverage includes 'perils listed under Specified Perils,' and Specified Perils explicitly includes earthquake, so the passage directly supports that Comprehensive coverage covers losses caused by earthquake."
+      }
+    ]
+  },
+  {
+    "claim_id": "q04_c9",
+    "question_id": "q04",
+    "claim_text": "Comprehensive coverage covers losses caused by explosion.",
+    "cited_chunk_ids": [
+      "c_069"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "Comprehensive coverage includes all perils listed under Specified Perils, which explicitly includes explosion, so the passage directly supports the claim.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_069",
+        "verdict": "SUPPORTED",
+        "reasoning": "Comprehensive coverage includes all perils listed under Specified Perils, which explicitly includes explosion, so the passage directly supports the claim."
+      }
+    ]
+  },
+  {
+    "claim_id": "q04_c10",
+    "question_id": "q04",
+    "claim_text": "Comprehensive coverage covers losses caused by riot or civil disturbance.",
+    "cited_chunk_ids": [
+      "c_069"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage states that Comprehensive coverage includes 'perils listed under Specified Perils,' and Specified Perils explicitly lists 'riot or civil disturbance,' so Comprehensive coverage does cover losses caused by riot or civil disturbance.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_069",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage states that Comprehensive coverage includes 'perils listed under Specified Perils,' and Specified Perils explicitly lists 'riot or civil disturbance,' so Comprehensive coverage does cover losses caused by riot or civil disturbance."
+      }
+    ]
+  },
+  {
+    "claim_id": "q04_c11",
+    "question_id": "q04",
+    "claim_text": "Comprehensive coverage covers losses caused by falling or forced landing of aircraft or parts of aircraft.",
+    "cited_chunk_ids": [
+      "c_069"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage states that Comprehensive coverage includes 'perils listed under Specified Perils,' and Specified Perils explicitly includes 'falling or forced landing of aircraft or parts of aircraft,' so Comprehensive coverage does cover such losses.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_069",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage states that Comprehensive coverage includes 'perils listed under Specified Perils,' and Specified Perils explicitly includes 'falling or forced landing of aircraft or parts of aircraft,' so Comprehensive coverage does cover such losses."
+      }
+    ]
+  },
+  {
+    "claim_id": "q04_c12",
+    "question_id": "q04",
+    "claim_text": "Comprehensive coverage covers losses caused by the stranding, sinking, burning, derailment, or collision of any transport carrying the automobile.",
+    "cited_chunk_ids": [
+      "c_069"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "Comprehensive coverage includes all perils listed under Specified Perils, which explicitly includes 'the stranding, sinking, burning, derailment or collision of any kind of transport in, or upon which a described automobile is being carried on land or water,' directly supporting the claim.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_069",
+        "verdict": "SUPPORTED",
+        "reasoning": "Comprehensive coverage includes all perils listed under Specified Perils, which explicitly includes 'the stranding, sinking, burning, derailment or collision of any kind of transport in, or upon which a described automobile is being carried on land or water,' directly supporting the claim."
+      }
+    ]
+  },
+  {
+    "claim_id": "q04_c13",
+    "question_id": "q04",
+    "claim_text": "Comprehensive coverage covers losses caused by falling or flying objects.",
+    "cited_chunk_ids": [
+      "c_069"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly lists 'falling or flying objects' as one of the perils covered under Comprehensive coverage.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_069",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly lists 'falling or flying objects' as one of the perils covered under Comprehensive coverage."
+      }
+    ]
+  },
+  {
+    "claim_id": "q04_c14",
+    "question_id": "q04",
+    "claim_text": "Comprehensive coverage covers losses caused by missiles.",
+    "cited_chunk_ids": [
+      "c_069"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly lists 'missiles' as one of the perils covered under Comprehensive coverage.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_069",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly lists 'missiles' as one of the perils covered under Comprehensive coverage."
+      }
+    ]
+  },
+  {
+    "claim_id": "q04_c15",
+    "question_id": "q04",
+    "claim_text": "Comprehensive coverage covers losses caused by vandalism.",
+    "cited_chunk_ids": [
+      "c_069"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly lists vandalism as one of the perils covered under Comprehensive coverage.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_069",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly lists vandalism as one of the perils covered under Comprehensive coverage."
+      }
+    ]
+  },
+  {
+    "claim_id": "q04_c16",
+    "question_id": "q04",
+    "claim_text": "Collision or Upset coverage pays only for losses caused when a described automobile is involved in a collision with another object or tips over.",
+    "cited_chunk_ids": [
+      "c_069"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage states under Collision or Upset that 'we will pay for losses caused when a described automobile is involved in a collision with another object or tips over,' which directly matches the claim.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_069",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage states under Collision or Upset that 'we will pay for losses caused when a described automobile is involved in a collision with another object or tips over,' which directly matches the claim."
+      }
+    ]
+  },
+  {
+    "claim_id": "q04_c17",
+    "question_id": "q04",
+    "claim_text": "Comprehensive coverage covers theft but Collision or Upset coverage does not.",
+    "cited_chunk_ids": [
+      "c_069"
+    ],
+    "verdict": "PARTIAL",
+    "reasoning": "The passage confirms that Comprehensive covers theft (via Specified Perils) and that Collision or Upset covers collisions/upsets rather than theft, but the passage does not explicitly state that Collision or Upset does NOT cover theft — it simply defines what it does cover, so the claim's negative assertion about Collision or Upset is implied but not directly stated, and Comprehensive is defined as covering losses 'other than those covered by Collision or Upset' including Specified Perils (which includes theft), supporting the claim only partially.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_069",
+        "verdict": "PARTIAL",
+        "reasoning": "The passage confirms that Comprehensive covers theft (via Specified Perils) and that Collision or Upset covers collisions/upsets rather than theft, but the passage does not explicitly state that Collision or Upset does NOT cover theft — it simply defines what it does cover, so the claim's negative assertion about Collision or Upset is implied but not directly stated, and Comprehensive is defined as covering losses 'other than those covered by Collision or Upset' including Specified Perils (which includes theft), supporting the claim only partially."
+      }
+    ]
+  },
+  {
+    "claim_id": "q04_c18",
+    "question_id": "q04",
+    "claim_text": "Comprehensive coverage covers weather-related damage but Collision or Upset coverage does not.",
+    "cited_chunk_ids": [
+      "c_069"
+    ],
+    "verdict": "PARTIAL",
+    "reasoning": "The passage confirms that Comprehensive covers weather-related perils (e.g., windstorm, hail, rising water) and explicitly excludes Collision or Upset losses, while Collision or Upset only covers collisions with objects or tipping over — so weather damage is not covered under Collision or Upset; however, the passage does not explicitly state that Collision or Upset 'does not cover weather-related damage,' it simply defines it as covering collisions/upsets, leaving the exclusion implicit rather than stated.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_069",
+        "verdict": "PARTIAL",
+        "reasoning": "The passage confirms that Comprehensive covers weather-related perils (e.g., windstorm, hail, rising water) and explicitly excludes Collision or Upset losses, while Collision or Upset only covers collisions with objects or tipping over — so weather damage is not covered under Collision or Upset; however, the passage does not explicitly state that Collision or Upset 'does not cover weather-related damage,' it simply defines it as covering collisions/upsets, leaving the exclusion implicit rather than stated."
+      }
+    ]
+  },
+  {
+    "claim_id": "q04_c19",
+    "question_id": "q04",
+    "claim_text": "Comprehensive coverage covers vandalism but Collision or Upset coverage does not.",
+    "cited_chunk_ids": [
+      "c_069"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly lists vandalism as covered under Comprehensive coverage, and Collision or Upset coverage is defined as covering only collisions with another object or tipping over, with no mention of vandalism.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_069",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly lists vandalism as covered under Comprehensive coverage, and Collision or Upset coverage is defined as covering only collisions with another object or tipping over, with no mention of vandalism."
+      }
+    ]
+  },
+  {
+    "claim_id": "q04_c20",
+    "question_id": "q04",
+    "claim_text": "Comprehensive coverage covers falling objects but Collision or Upset coverage does not.",
+    "cited_chunk_ids": [
+      "c_069"
+    ],
+    "verdict": "PARTIAL",
+    "reasoning": "The passage confirms that Comprehensive covers 'falling or flying objects' and is defined as covering losses 'other than those covered by Collision or Upset,' which implicitly excludes falling objects from Collision or Upset coverage; however, the passage does not explicitly state that Collision or Upset does not cover falling objects — it only defines Collision or Upset as covering collisions with objects or tipping over, and the claim's assertion that Collision or Upset 'does not' cover falling objects is an inference rather than an explicit statement in the passage.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_069",
+        "verdict": "PARTIAL",
+        "reasoning": "The passage confirms that Comprehensive covers 'falling or flying objects' and is defined as covering losses 'other than those covered by Collision or Upset,' which implicitly excludes falling objects from Collision or Upset coverage; however, the passage does not explicitly state that Collision or Upset does not cover falling objects — it only defines Collision or Upset as covering collisions with objects or tipping over, and the claim's assertion that Collision or Upset 'does not' cover falling objects is an inference rather than an explicit statement in the passage."
+      }
+    ]
+  },
+  {
+    "claim_id": "q04_c21",
+    "question_id": "q04",
+    "claim_text": "Comprehensive coverage covers missiles but Collision or Upset coverage does not.",
+    "cited_chunk_ids": [
+      "c_069"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly lists 'missiles' under Comprehensive coverage and defines Collision or Upset as covering only losses when a vehicle collides with another object or tips over, with no mention of missiles under that coverage.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_069",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly lists 'missiles' under Comprehensive coverage and defines Collision or Upset as covering only losses when a vehicle collides with another object or tips over, with no mention of missiles under that coverage."
+      }
+    ]
+  },
+  {
+    "claim_id": "q05_c1",
+    "question_id": "q05",
+    "claim_text": "When making a claim under the Loss or Damage coverage, you and other insured persons must permit the insurer to inspect the automobile at any reasonable time.",
+    "cited_chunk_ids": [
+      "c_077"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly states that insured persons must 'permit us to inspect the automobile at any reasonable time' as one of the responsibilities when making a claim under this Section (Loss or Damage coverage).",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_077",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly states that insured persons must 'permit us to inspect the automobile at any reasonable time' as one of the responsibilities when making a claim under this Section (Loss or Damage coverage)."
+      }
+    ]
+  },
+  {
+    "claim_id": "q06_c1",
+    "question_id": "q06",
+    "claim_text": "The most the insurer will pay for loss or damage to electronic accessories or equipment other than factory installed equipment is $1,500.",
+    "cited_chunk_ids": [
+      "c_079"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly states 'We will not pay more than $1,500 for loss or damage to electronic accessories or equipment other than factory installed equipment,' which directly supports the claim.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_079",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly states 'We will not pay more than $1,500 for loss or damage to electronic accessories or equipment other than factory installed equipment,' which directly supports the claim."
+      }
+    ]
+  },
+  {
+    "claim_id": "q06_c2",
+    "question_id": "q06",
+    "claim_text": "The insurer will pay the actual cash value of electronic accessories or equipment other than factory installed equipment.",
+    "cited_chunk_ids": [
+      "c_079"
+    ],
+    "verdict": "PARTIAL",
+    "reasoning": "The passage does state that the insurer will pay the actual cash value of electronic accessories or equipment other than factory installed equipment, but the claim omits the critical qualification that payment is capped at $1,500 in total.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_079",
+        "verdict": "PARTIAL",
+        "reasoning": "The passage does state that the insurer will pay the actual cash value of electronic accessories or equipment other than factory installed equipment, but the claim omits the critical qualification that payment is capped at $1,500 in total."
+      }
+    ]
+  },
+  {
+    "claim_id": "q06_c3",
+    "question_id": "q06",
+    "claim_text": "The insurer's payment for electronic accessories or equipment other than factory installed equipment is capped at $1,500 in total.",
+    "cited_chunk_ids": [
+      "c_079"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly states 'We will not pay more than $1,500 for loss or damage to electronic accessories or equipment other than factory installed equipment' and 'We will pay the actual cash value of the equipment up to $1,500 in total,' directly supporting the claim.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_079",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly states 'We will not pay more than $1,500 for loss or damage to electronic accessories or equipment other than factory installed equipment' and 'We will pay the actual cash value of the equipment up to $1,500 in total,' directly supporting the claim."
+      }
+    ]
+  },
+  {
+    "claim_id": "q06_c4",
+    "question_id": "q06",
+    "claim_text": "Electronic accessories and equipment includes radios.",
+    "cited_chunk_ids": [
+      "c_079"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly states that 'Electronic accessories and equipment' includes radios in its list of examples.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_079",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly states that 'Electronic accessories and equipment' includes radios in its list of examples."
+      }
+    ]
+  },
+  {
+    "claim_id": "q06_c5",
+    "question_id": "q06",
+    "claim_text": "Electronic accessories and equipment includes tape players/decks.",
+    "cited_chunk_ids": [
+      "c_079"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly lists 'tape players/decks' as an example of electronic accessories and equipment.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_079",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly lists 'tape players/decks' as an example of electronic accessories and equipment."
+      }
+    ]
+  },
+  {
+    "claim_id": "q06_c6",
+    "question_id": "q06",
+    "claim_text": "Electronic accessories and equipment includes stereo players/decks.",
+    "cited_chunk_ids": [
+      "c_079"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly lists 'stereo players/decks' as one of the items included in the definition of 'electronic accessories and equipment.'",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_079",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly lists 'stereo players/decks' as one of the items included in the definition of 'electronic accessories and equipment.'"
+      }
+    ]
+  },
+  {
+    "claim_id": "q06_c7",
+    "question_id": "q06",
+    "claim_text": "Electronic accessories and equipment includes compact disc players.",
+    "cited_chunk_ids": [
+      "c_079"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly lists compact disc players as one of the items included in the definition of 'electronic accessories and equipment'.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_079",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly lists compact disc players as one of the items included in the definition of 'electronic accessories and equipment'."
+      }
+    ]
+  },
+  {
+    "claim_id": "q06_c8",
+    "question_id": "q06",
+    "claim_text": "Electronic accessories and equipment includes speakers.",
+    "cited_chunk_ids": [
+      "c_079"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly lists 'speakers' as one of the items included in the definition of 'electronic accessories and equipment.'",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_079",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly lists 'speakers' as one of the items included in the definition of 'electronic accessories and equipment.'"
+      }
+    ]
+  },
+  {
+    "claim_id": "q06_c9",
+    "question_id": "q06",
+    "claim_text": "Electronic accessories and equipment includes telephones.",
+    "cited_chunk_ids": [
+      "c_079"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly lists telephones as one of the items included in the definition of 'electronic accessories and equipment.'",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_079",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly lists telephones as one of the items included in the definition of 'electronic accessories and equipment.'"
+      }
+    ]
+  },
+  {
+    "claim_id": "q06_c10",
+    "question_id": "q06",
+    "claim_text": "Electronic accessories and equipment includes two-way radios.",
+    "cited_chunk_ids": [
+      "c_079"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly lists two-way radios (including CB radios, ham radios, and VHF radios) as part of the definition of 'electronic accessories and equipment.'",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_079",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly lists two-way radios (including CB radios, ham radios, and VHF radios) as part of the definition of 'electronic accessories and equipment.'"
+      }
+    ]
+  },
+  {
+    "claim_id": "q06_c11",
+    "question_id": "q06",
+    "claim_text": "Electronic accessories and equipment includes televisions.",
+    "cited_chunk_ids": [
+      "c_079"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly lists televisions as one of the items included in the definition of 'electronic accessories and equipment.'",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_079",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly lists televisions as one of the items included in the definition of 'electronic accessories and equipment.'"
+      }
+    ]
+  },
+  {
+    "claim_id": "q06_c12",
+    "question_id": "q06",
+    "claim_text": "Electronic accessories and equipment includes facsimile machines.",
+    "cited_chunk_ids": [
+      "c_079"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly lists facsimile machines as one of the items included in the definition of 'electronic accessories and equipment.'",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_079",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly lists facsimile machines as one of the items included in the definition of 'electronic accessories and equipment.'"
+      }
+    ]
+  },
+  {
+    "claim_id": "q06_c13",
+    "question_id": "q06",
+    "claim_text": "Electronic accessories and equipment includes electronic navigation assistance devices.",
+    "cited_chunk_ids": [
+      "c_079"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly lists 'electronic navigation assistance, positioning and location finding devices' as part of what 'electronic accessories and equipment' includes.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_079",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly lists 'electronic navigation assistance, positioning and location finding devices' as part of what 'electronic accessories and equipment' includes."
+      }
+    ]
+  },
+  {
+    "claim_id": "q06_c14",
+    "question_id": "q06",
+    "claim_text": "Electronic accessories and equipment includes positioning and location finding devices.",
+    "cited_chunk_ids": [
+      "c_079"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly lists 'positioning and location finding devices' as part of the definition of 'electronic accessories and equipment'.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_079",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly lists 'positioning and location finding devices' as part of the definition of 'electronic accessories and equipment'."
+      }
+    ]
+  },
+  {
+    "claim_id": "q06_c15",
+    "question_id": "q06",
+    "claim_text": "Electronic accessories and equipment includes computers.",
+    "cited_chunk_ids": [
+      "c_079"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly lists 'computers' as one of the items included in the definition of 'electronic accessories and equipment.'",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_079",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly lists 'computers' as one of the items included in the definition of 'electronic accessories and equipment.'"
+      }
+    ]
+  },
+  {
+    "claim_id": "q06_c16",
+    "question_id": "q06",
+    "claim_text": "Electronic accessories and equipment includes items of a similar nature to radios, tape players/decks, stereo players/decks, compact disc players, speakers, telephones, two-way radios, televisions, facsimile machines, electronic navigation assistance, positioning and location finding devices, and computers.",
+    "cited_chunk_ids": [
+      "c_079"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly lists all the items mentioned in the claim as examples of 'electronic accessories and equipment,' including radios, tape players/decks, stereo players/decks, compact disc players, speakers, telephones, two-way radios, televisions, facsimile machines, electronic navigation assistance, positioning and location finding devices, computers, and items of a similar nature.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_079",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly lists all the items mentioned in the claim as examples of 'electronic accessories and equipment,' including radios, tape players/decks, stereo players/decks, compact disc players, speakers, telephones, two-way radios, televisions, facsimile machines, electronic navigation assistance, positioning and location finding devices, computers, and items of a similar nature."
+      }
+    ]
+  },
+  {
+    "claim_id": "q06_c17",
+    "question_id": "q06",
+    "claim_text": "Factory installed equipment means electronic accessories and equipment which was included in the original new purchase price of the automobile.",
+    "cited_chunk_ids": [
+      "c_079"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly defines 'Factory installed equipment' as 'electronic accessories and equipment which was included in the original new purchase price of the automobile,' which matches the claim exactly.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_079",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly defines 'Factory installed equipment' as 'electronic accessories and equipment which was included in the original new purchase price of the automobile,' which matches the claim exactly."
+      }
+    ]
+  },
+  {
+    "claim_id": "q07_c1",
+    "question_id": "q07",
+    "claim_text": "Under Uninsured Automobile Coverage, the insurer will not pay for the first $300 worth of accidental damage to the automobile and its contents.",
+    "cited_chunk_ids": [
+      "c_054"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly states under section 5.7.1 that the insurer will not pay 'for the first $300 worth of accidental damage to the automobile and its contents,' which directly supports the claim.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_054",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly states under section 5.7.1 that the insurer will not pay 'for the first $300 worth of accidental damage to the automobile and its contents,' which directly supports the claim."
+      }
+    ]
+  },
+  {
+    "claim_id": "q07_c2",
+    "question_id": "q07",
+    "claim_text": "Under Uninsured Automobile Coverage, the insurer will not pay any amount over $25,000 in any one accident for damage to the automobile and its contents.",
+    "cited_chunk_ids": [
+      "c_054"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly states under section 5.7.1 that the insurer will not pay 'any amount over $25,000 in any one accident for damage to the automobile and its contents,' which directly matches the claim.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_054",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly states under section 5.7.1 that the insurer will not pay 'any amount over $25,000 in any one accident for damage to the automobile and its contents,' which directly matches the claim."
+      }
+    ]
+  },
+  {
+    "claim_id": "q08_c1",
+    "question_id": "q08",
+    "claim_text": "When an accident results in valid claims for both bodily injury or death and property damage, 95% of the total amount payable is allocated to bodily injury and death claims.",
+    "cited_chunk_ids": [
+      "c_052"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly states that 'payments for bodily injury and death have priority on 95% of the total amount payable' when an accident results in valid claims for both bodily injury or death and property damage.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_052",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly states that 'payments for bodily injury and death have priority on 95% of the total amount payable' when an accident results in valid claims for both bodily injury or death and property damage."
+      }
+    ]
+  },
+  {
+    "claim_id": "q08_c2",
+    "question_id": "q08",
+    "claim_text": "When an accident results in valid claims for both bodily injury or death and property damage, 5% of the total amount payable is allocated to property damage (damage to the automobile or its contents).",
+    "cited_chunk_ids": [
+      "c_052"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly states that when an accident results in valid claims for both bodily injury or death and damage to the automobile or its contents, 5% of the total amount payable has priority for property damage (damage to the automobile or contents), which directly supports the claim.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_052",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly states that when an accident results in valid claims for both bodily injury or death and damage to the automobile or its contents, 5% of the total amount payable has priority for property damage (damage to the automobile or contents), which directly supports the claim."
+      }
+    ]
+  },
+  {
+    "claim_id": "q08_c3",
+    "question_id": "q08",
+    "claim_text": "If an accident results in $350,000 in bodily injury claims and $20,000 in property damage but the maximum payable is $200,000, then $190,000 (95%) goes toward bodily injury payments.",
+    "cited_chunk_ids": [
+      "c_052"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage contains the exact example described in the claim, confirming that with $350,000 in bodily injury claims, $20,000 in property damage, and a $200,000 maximum, $190,000 (95%) goes toward bodily injury payments.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_052",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage contains the exact example described in the claim, confirming that with $350,000 in bodily injury claims, $20,000 in property damage, and a $200,000 maximum, $190,000 (95%) goes toward bodily injury payments."
+      }
+    ]
+  },
+  {
+    "claim_id": "q08_c4",
+    "question_id": "q08",
+    "claim_text": "If an accident results in $350,000 in bodily injury claims and $20,000 in property damage but the maximum payable is $200,000, then $10,000 (5%) applies to the vehicle loss.",
+    "cited_chunk_ids": [
+      "c_052"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage contains the exact example described in the claim, confirming that with $350,000 in bodily injury claims, $20,000 in property damage, and a $200,000 maximum, $10,000 (5%) applies to the vehicle loss.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_052",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage contains the exact example described in the claim, confirming that with $350,000 in bodily injury claims, $20,000 in property damage, and a $200,000 maximum, $10,000 (5%) applies to the vehicle loss."
+      }
+    ]
+  },
+  {
+    "claim_id": "q08_c5",
+    "question_id": "q08",
+    "claim_text": "Property damage coverage is subject to a $300 deductible.",
+    "cited_chunk_ids": [
+      "c_047",
+      "c_047"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly states that property damage claims under Section 5.2.3 are 'Subject to the $300 deductible,' directly supporting the claim.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_047",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly states that property damage claims under Section 5.2.3 are 'Subject to the $300 deductible,' directly supporting the claim."
+      },
+      {
+        "chunk_id": "c_047",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly states 'Subject to the $300 deductible' in the context of property damage claims under Section 5.2.3, directly supporting the claim."
+      }
+    ]
+  },
+  {
+    "claim_id": "q08_c6",
+    "question_id": "q08",
+    "claim_text": "Property damage coverage is capped at $25,000.",
+    "cited_chunk_ids": [
+      "c_047",
+      "c_047"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly states 'we will pay up to $25,000' for property damage claims under Section 5.2.3, directly supporting the claim that property damage coverage is capped at $25,000.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_047",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly states 'we will pay up to $25,000' for property damage claims under Section 5.2.3, directly supporting the claim that property damage coverage is capped at $25,000."
+      },
+      {
+        "chunk_id": "c_047",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly states 'we will pay up to $25,000' for property damage claims under Section 5.2.3, directly supporting the claim that property damage coverage is capped at $25,000."
+      }
+    ]
+  },
+  {
+    "claim_id": "q08_c7",
+    "question_id": "q08",
+    "claim_text": "Property damage coverage only applies when the responsible driver is identified.",
+    "cited_chunk_ids": [
+      "c_047",
+      "c_047"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "Section 5.2.3 explicitly states that property damage claims apply only against an 'identified owner or driver of an uninsured automobile,' and the note confirms that damage caused by an unidentified automobile is not covered under this section, directly supporting the claim.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_047",
+        "verdict": "SUPPORTED",
+        "reasoning": "Section 5.2.3 explicitly states that property damage claims apply only against an 'identified owner or driver of an uninsured automobile,' and the note confirms that damage caused by an unidentified automobile is not covered under this section, directly supporting the claim."
+      },
+      {
+        "chunk_id": "c_047",
+        "verdict": "SUPPORTED",
+        "reasoning": "Section 5.2.3 explicitly states that property damage claims apply only against an 'identified owner or driver of an uninsured automobile,' and the note confirms that damage caused by an unidentified automobile is not covered under this section, directly supporting the claim."
+      }
+    ]
+  },
+  {
+    "claim_id": "q08_c8",
+    "question_id": "q08",
+    "claim_text": "Property damage caused by an unidentified automobile is not covered.",
+    "cited_chunk_ids": [
+      "c_047",
+      "c_047"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly states 'Damage to the automobile caused by an unidentified automobile is not covered under this Section,' which directly supports the claim that property damage caused by an unidentified automobile is not covered.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_047",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly states 'Damage to the automobile caused by an unidentified automobile is not covered under this Section,' which directly supports the claim that property damage caused by an unidentified automobile is not covered."
+      },
+      {
+        "chunk_id": "c_047",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly states 'Damage to the automobile caused by an unidentified automobile is not covered under this Section,' which directly supports the claim that property damage caused by an unidentified automobile is not covered."
+      }
+    ]
+  },
+  {
+    "claim_id": "q09_c1",
+    "question_id": "q09",
+    "claim_text": "If an insured is 25% at fault with a $500 Collision deductible, the Section 7 Collision deductible owed is $125.",
+    "cited_chunk_ids": [
+      "c_072"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly states that the Collision deductible is the Collision deductible multiplied by the percentage at fault, and Examples #3 and #4 both show that 25% at fault with a $500 Collision deductible results in a deductible of $125 (25% of $500).",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_072",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly states that the Collision deductible is the Collision deductible multiplied by the percentage at fault, and Examples #3 and #4 both show that 25% at fault with a $500 Collision deductible results in a deductible of $125 (25% of $500)."
+      }
+    ]
+  },
+  {
+    "claim_id": "q09_c2",
+    "question_id": "q09",
+    "claim_text": "If an insured is 25% at fault (75% not at fault) with a $300 DC-PD deductible, the DC-PD deductible owed is $225.",
+    "cited_chunk_ids": [
+      "c_062"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "Example #2 in the passage explicitly states that with a 25% at-fault (75% not at fault) scenario and a $300 DC-PD deductible, the deductible owed is $225 (75% of $300), which directly supports the claim.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_062",
+        "verdict": "SUPPORTED",
+        "reasoning": "Example #2 in the passage explicitly states that with a 25% at-fault (75% not at fault) scenario and a $300 DC-PD deductible, the deductible owed is $225 (75% of $300), which directly supports the claim."
+      }
+    ]
+  },
+  {
+    "claim_id": "q09_c3",
+    "question_id": "q09",
+    "claim_text": "Being 25% at fault results in a combined deductible responsibility of $350 total.",
+    "cited_chunk_ids": [
+      "c_072",
+      "c_062"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "Example #3 and Example #4 in the passage both explicitly show that being 25% at fault results in deductibles totalling $350 ($225 DC-PD deductible portion + $125 Collision deductible portion).",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_072",
+        "verdict": "SUPPORTED",
+        "reasoning": "Example #3 and Example #4 in the passage both explicitly show that being 25% at fault results in deductibles totalling $350 ($225 DC-PD deductible portion + $125 Collision deductible portion)."
+      },
+      {
+        "chunk_id": "c_062",
+        "verdict": "UNSUPPORTED",
+        "reasoning": "The passage does not present any scenario where being 25% at fault results in a combined deductible responsibility of $350 total; Example #2 shows 25% fault with a $225 deductible responsibility, and Example #3 shows 25% fault with a $375 deductible responsibility, neither of which matches $350 nor combines to $350 in any described scenario."
+      }
+    ]
+  },
+  {
+    "claim_id": "q09_c4",
+    "question_id": "q09",
+    "claim_text": "The $350 combined deductible when 25% at fault consists of $125 under Section 7 Collision and $225 under DC-PD.",
+    "cited_chunk_ids": [
+      "c_072",
+      "c_062"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "Example #3 in the passage explicitly shows that when 25% at fault, the DC-PD deductible portion is $225 (75% of $300) and the Collision deductible portion is $125 (25% of $500), totalling $350, which directly supports the claim.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_072",
+        "verdict": "SUPPORTED",
+        "reasoning": "Example #3 in the passage explicitly shows that when 25% at fault, the DC-PD deductible portion is $225 (75% of $300) and the Collision deductible portion is $125 (25% of $500), totalling $350, which directly supports the claim."
+      },
+      {
+        "chunk_id": "c_062",
+        "verdict": "UNSUPPORTED",
+        "reasoning": "The passage never mentions a $350 combined deductible, a $125 Section 7 Collision component, or a $225 DC-PD component in any single example; Example #2 shows a $225 DC-PD deductible when 25% at fault but with a $300 deductible amount, and no Section 7 Collision deductible is discussed in combination with it."
+      }
+    ]
+  },
+  {
+    "claim_id": "q10_c1",
+    "question_id": "q10",
+    "claim_text": "The described automobile must be out of service due to breakdown, repair, servicing, theft, sale, or destruction for a temporary substitute automobile to qualify for coverage.",
+    "cited_chunk_ids": [
+      "c_018"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage states that a temporary substitute automobile is one used while a described automobile is out of service due to 'breakdown, repair, servicing, theft, sale or destruction,' which directly matches the claim.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_018",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage states that a temporary substitute automobile is one used while a described automobile is out of service due to 'breakdown, repair, servicing, theft, sale or destruction,' which directly matches the claim."
+      }
+    ]
+  },
+  {
+    "claim_id": "q10_c2",
+    "question_id": "q10",
+    "claim_text": "The described automobile must not be in use by anyone insured under the policy for a temporary substitute automobile to qualify for coverage.",
+    "cited_chunk_ids": [
+      "c_018"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly states that for a temporary substitute automobile, 'The described automobile must not be in use by anyone insured by this policy,' which directly supports the claim.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_018",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly states that for a temporary substitute automobile, 'The described automobile must not be in use by anyone insured by this policy,' which directly supports the claim."
+      }
+    ]
+  },
+  {
+    "claim_id": "q10_c3",
+    "question_id": "q10",
+    "claim_text": "The substitute vehicle cannot be owned by the policyholder for a temporary substitute automobile to qualify for coverage.",
+    "cited_chunk_ids": [
+      "c_018"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly states 'A temporary substitute automobile cannot be owned by you or by anyone living in the same dwelling as you,' which directly supports the claim that the substitute vehicle cannot be owned by the policyholder.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_018",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly states 'A temporary substitute automobile cannot be owned by you or by anyone living in the same dwelling as you,' which directly supports the claim that the substitute vehicle cannot be owned by the policyholder."
+      }
+    ]
+  },
+  {
+    "claim_id": "q10_c4",
+    "question_id": "q10",
+    "claim_text": "The substitute vehicle cannot be owned by anyone living in the same dwelling as the policyholder for a temporary substitute automobile to qualify for coverage.",
+    "cited_chunk_ids": [
+      "c_018"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage's special condition states that a temporary substitute automobile cannot be owned by the policyholder ('you') or by anyone living in the same dwelling as the policyholder, which directly supports the claim that the substitute vehicle cannot be owned by anyone living in the same dwelling as the policyholder.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_018",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage's special condition states that a temporary substitute automobile cannot be owned by the policyholder ('you') or by anyone living in the same dwelling as the policyholder, which directly supports the claim that the substitute vehicle cannot be owned by anyone living in the same dwelling as the policyholder."
+      }
+    ]
+  },
+  {
+    "claim_id": "q10_c5",
+    "question_id": "q10",
+    "claim_text": "The applicable optional Loss or Damage Coverage must have been purchased on the described automobile that is temporarily out of service for a temporary substitute automobile to qualify for coverage.",
+    "cited_chunk_ids": [
+      "c_018"
+    ],
+    "verdict": "PARTIAL",
+    "reasoning": "The passage states that if optional Loss or Damage Coverages have been purchased on a described automobile that is temporarily out of service, special conditions apply (explained in Section 7), but it does not directly confirm that the optional Loss or Damage Coverage must have been purchased on the described automobile for the temporary substitute to qualify — it only references special conditions explained elsewhere, so the claim is partially supported but the passage does not fully confirm the qualifying requirement as stated.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_018",
+        "verdict": "PARTIAL",
+        "reasoning": "The passage states that if optional Loss or Damage Coverages have been purchased on a described automobile that is temporarily out of service, special conditions apply (explained in Section 7), but it does not directly confirm that the optional Loss or Damage Coverage must have been purchased on the described automobile for the temporary substitute to qualify — it only references special conditions explained elsewhere, so the claim is partially supported but the passage does not fully confirm the qualifying requirement as stated."
+      }
+    ]
+  },
+  {
+    "claim_id": "q10_c6",
+    "question_id": "q10",
+    "claim_text": "A premium for the applicable optional Loss or Damage Coverage must be shown on the Certificate of Automobile Insurance for a temporary substitute automobile to qualify for coverage.",
+    "cited_chunk_ids": [
+      "c_018"
+    ],
+    "verdict": "UNSUPPORTED",
+    "reasoning": "The passage states that Liability, Accident Benefits, Uninsured Automobile, and Direct Compensation-Property Damage apply to a temporary substitute automobile if a premium is shown on the Certificate for those coverages, but for optional Loss or Damage Coverages it only says there are 'special conditions' explained in Section 7, without stating that a premium must be shown on the Certificate for those coverages to apply.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_018",
+        "verdict": "UNSUPPORTED",
+        "reasoning": "The passage states that Liability, Accident Benefits, Uninsured Automobile, and Direct Compensation-Property Damage apply to a temporary substitute automobile if a premium is shown on the Certificate for those coverages, but for optional Loss or Damage Coverages it only says there are 'special conditions' explained in Section 7, without stating that a premium must be shown on the Certificate for those coverages to apply."
+      }
+    ]
+  },
+  {
+    "claim_id": "q10_c7",
+    "question_id": "q10",
+    "claim_text": "The policyholder or the driver must be legally responsible for the damage to the temporary substitute automobile, either through liability imposed by law or agreed to by the policyholder or the driver, for coverage to apply.",
+    "cited_chunk_ids": [
+      "c_075"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage states that coverage applies when 'you or the driver are legally responsible' for damage resulting from 'liability imposed by law or agreed to by you or the driver,' which directly supports the claim that legal responsibility (through law or agreement) is required for coverage to apply.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_075",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage states that coverage applies when 'you or the driver are legally responsible' for damage resulting from 'liability imposed by law or agreed to by you or the driver,' which directly supports the claim that legal responsibility (through law or agreement) is required for coverage to apply."
+      }
+    ]
+  },
+  {
+    "claim_id": "q10_c8",
+    "question_id": "q10",
+    "claim_text": "If the owner of the temporary substitute automobile has no collision insurance, the insurer will pay for the direct damage for which the policyholder is legally responsible minus the policy's deductible for that peril.",
+    "cited_chunk_ids": [
+      "c_075"
+    ],
+    "verdict": "PARTIAL",
+    "reasoning": "The passage supports that the insurer pays for direct damage minus the policy's deductible, but it only specifies this rule when the owner has no insurance or when the owner's deductible is smaller than the policyholder's; the passage does not explicitly state this as the rule specifically when the owner has 'no collision insurance,' and the examples shown involve an owner who does have collision insurance.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_075",
+        "verdict": "PARTIAL",
+        "reasoning": "The passage supports that the insurer pays for direct damage minus the policy's deductible, but it only specifies this rule when the owner has no insurance or when the owner's deductible is smaller than the policyholder's; the passage does not explicitly state this as the rule specifically when the owner has 'no collision insurance,' and the examples shown involve an owner who does have collision insurance."
+      }
+    ]
+  },
+  {
+    "claim_id": "q10_c9",
+    "question_id": "q10",
+    "claim_text": "If the owner of the temporary substitute automobile also has collision insurance, the most the insurer will pay is the difference between the owner's deductible and the policyholder's deductible.",
+    "cited_chunk_ids": [
+      "c_075"
+    ],
+    "verdict": "PARTIAL",
+    "reasoning": "The passage supports the claim that the most the insurer will pay is the difference between the two deductibles, but only when the owner's deductible is larger than the policyholder's deductible — a qualification the claim omits entirely.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_075",
+        "verdict": "PARTIAL",
+        "reasoning": "The passage supports the claim that the most the insurer will pay is the difference between the two deductibles, but only when the owner's deductible is larger than the policyholder's deductible — a qualification the claim omits entirely."
+      }
+    ]
+  },
+  {
+    "claim_id": "q10_c10",
+    "question_id": "q10",
+    "claim_text": "When both the owner of the temporary substitute automobile and the policyholder have collision insurance, the owner's deductible is larger and the policyholder's deductible is smaller for purposes of calculating the payment.",
+    "cited_chunk_ids": [
+      "c_075"
+    ],
+    "verdict": "PARTIAL",
+    "reasoning": "The passage confirms that when the owner's deductible is larger than the policyholder's deductible, the payment is the difference between the two deductibles, which supports the general structure of the claim; however, the claim says the owner's deductible is 'larger' and the policyholder's is 'smaller' as a general rule for calculating payment, while the passage specifies this only applies when the owner's deductible is larger than the policyholder's (and Example #1 shows a different calculation applies when damage is less than the policyholder's deductible), so the claim omits the qualification that the payment equals the difference only when the owner's deductible exceeds the policyholder's deductible and the damage exceeds the owner's deductible.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_075",
+        "verdict": "PARTIAL",
+        "reasoning": "The passage confirms that when the owner's deductible is larger than the policyholder's deductible, the payment is the difference between the two deductibles, which supports the general structure of the claim; however, the claim says the owner's deductible is 'larger' and the policyholder's is 'smaller' as a general rule for calculating payment, while the passage specifies this only applies when the owner's deductible is larger than the policyholder's (and Example #1 shows a different calculation applies when damage is less than the policyholder's deductible), so the claim omits the qualification that the payment equals the difference only when the owner's deductible exceeds the policyholder's deductible and the damage exceeds the owner's deductible."
+      }
+    ]
+  },
+  {
+    "claim_id": "q10_c11",
+    "question_id": "q10",
+    "claim_text": "When the owner of the temporary substitute automobile also has collision insurance, the insurer will pay the difference between the two deductibles, not the full repair cost.",
+    "cited_chunk_ids": [
+      "c_075"
+    ],
+    "verdict": "PARTIAL",
+    "reasoning": "The passage supports that when the owner has collision insurance with a larger deductible, the insurer pays the difference between the two deductibles, but the claim oversimplifies by saying the insurer never pays the full repair cost — in fact, the passage shows (Example #1) that when the repair cost is less than the owner's deductible, the insurer pays the actual damage minus its own deductible (not the difference between deductibles), so the rule about paying the difference only applies when the owner's deductible exceeds the insured's deductible AND the damage exceeds the owner's deductible.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_075",
+        "verdict": "PARTIAL",
+        "reasoning": "The passage supports that when the owner has collision insurance with a larger deductible, the insurer pays the difference between the two deductibles, but the claim oversimplifies by saying the insurer never pays the full repair cost — in fact, the passage shows (Example #1) that when the repair cost is less than the owner's deductible, the insurer pays the actual damage minus its own deductible (not the difference between deductibles), so the rule about paying the difference only applies when the owner's deductible exceeds the insured's deductible AND the damage exceeds the owner's deductible."
+      }
+    ]
+  },
+  {
+    "claim_id": "q11_c1",
+    "question_id": "q11",
+    "claim_text": "Liability Coverage is explicitly exempted from the war activities exclusion.",
+    "cited_chunk_ids": [
+      "c_014"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly states 'With the exception of Liability Coverage, this policy does not cover loss, damage, injury or death caused by war activities,' directly supporting the claim that Liability Coverage is exempted from the war activities exclusion.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_014",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly states 'With the exception of Liability Coverage, this policy does not cover loss, damage, injury or death caused by war activities,' directly supporting the claim that Liability Coverage is exempted from the war activities exclusion."
+      }
+    ]
+  },
+  {
+    "claim_id": "q11_c2",
+    "question_id": "q11",
+    "claim_text": "The war activities exclusion does not apply to Liability Coverage.",
+    "cited_chunk_ids": [
+      "c_014"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly states 'With the exception of Liability Coverage, this policy does not cover loss, damage, injury or death caused by war activities,' directly supporting the claim that the war activities exclusion does not apply to Liability Coverage.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_014",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly states 'With the exception of Liability Coverage, this policy does not cover loss, damage, injury or death caused by war activities,' directly supporting the claim that the war activities exclusion does not apply to Liability Coverage."
+      }
+    ]
+  },
+  {
+    "claim_id": "q11_c3",
+    "question_id": "q11",
+    "claim_text": "The policy does not cover loss, damage, injury or death caused by war activities, with the exception of Liability Coverage.",
+    "cited_chunk_ids": [
+      "c_014"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly states 'With the exception of Liability Coverage, this policy does not cover loss, damage, injury or death caused by war activities,' which directly matches the claim.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_014",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly states 'With the exception of Liability Coverage, this policy does not cover loss, damage, injury or death caused by war activities,' which directly matches the claim."
+      }
+    ]
+  },
+  {
+    "claim_id": "q11_c4",
+    "question_id": "q11",
+    "claim_text": "Other restrictions on the war activities exclusion apply to Accident Benefits coverage.",
+    "cited_chunk_ids": [
+      "c_014"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly states that 'Other restrictions apply to specific coverages, such as Accident Benefits and optional Loss or Damage coverages,' directly supporting the claim that other restrictions on the war activities exclusion apply to Accident Benefits coverage.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_014",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly states that 'Other restrictions apply to specific coverages, such as Accident Benefits and optional Loss or Damage coverages,' directly supporting the claim that other restrictions on the war activities exclusion apply to Accident Benefits coverage."
+      }
+    ]
+  },
+  {
+    "claim_id": "q11_c5",
+    "question_id": "q11",
+    "claim_text": "Other restrictions on the war activities exclusion apply to optional Loss or Damage coverages.",
+    "cited_chunk_ids": [
+      "c_014"
+    ],
+    "verdict": "PARTIAL",
+    "reasoning": "The passage states that other restrictions apply to optional Loss or Damage coverages (among others), which supports that part of the claim, but the passage also mentions Accident Benefits as another coverage with additional restrictions, which the claim omits.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_014",
+        "verdict": "PARTIAL",
+        "reasoning": "The passage states that other restrictions apply to optional Loss or Damage coverages (among others), which supports that part of the claim, but the passage also mentions Accident Benefits as another coverage with additional restrictions, which the claim omits."
+      }
+    ]
+  },
+  {
+    "claim_id": "q12_c1",
+    "question_id": "q12",
+    "claim_text": "The deductible for collision coverage, if any, is shown on the Certificate of Automobile Insurance.",
+    "cited_chunk_ids": [
+      "c_072"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly states 'The deductible, if any, is shown on the Certificate of Automobile Insurance,' which directly supports the claim.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_072",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly states 'The deductible, if any, is shown on the Certificate of Automobile Insurance,' which directly supports the claim."
+      }
+    ]
+  },
+  {
+    "claim_id": "q13_c1",
+    "question_id": "q13",
+    "claim_text": "The Income Replacement Benefit is an optional benefit.",
+    "cited_chunk_ids": [
+      "c_040"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly lists the Income Replacement Benefit under the section titled 'Optional Benefits' in the Statutory Accident Benefits Schedule, directly supporting the claim.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_040",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly lists the Income Replacement Benefit under the section titled 'Optional Benefits' in the Statutory Accident Benefits Schedule, directly supporting the claim."
+      }
+    ]
+  },
+  {
+    "claim_id": "q13_c2",
+    "question_id": "q13",
+    "claim_text": "The Income Replacement Benefit may compensate insured persons for lost income.",
+    "cited_chunk_ids": [
+      "c_040"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly states that the Income Replacement Benefit 'may compensate you and other insured persons for lost income,' which directly supports the claim.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_040",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly states that the Income Replacement Benefit 'may compensate you and other insured persons for lost income,' which directly supports the claim."
+      }
+    ]
+  },
+  {
+    "claim_id": "q14_c1",
+    "question_id": "q14",
+    "claim_text": "Responsibility for an accident is determined by the Insurance Act (Ontario) and the Fault Determination Rules.",
+    "cited_chunk_ids": [
+      "c_061"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly states 'Responsibility for an accident is determined by the Insurance Act (Ontario) and the Fault Determination Rules,' which is identical to the claim.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_061",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly states 'Responsibility for an accident is determined by the Insurance Act (Ontario) and the Fault Determination Rules,' which is identical to the claim."
+      }
+    ]
+  },
+  {
+    "claim_id": "q14_c2",
+    "question_id": "q14",
+    "claim_text": "The Fault Determination Rules may find the insured or the driver wholly or partially responsible for an accident.",
+    "cited_chunk_ids": [
+      "c_061"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly states that the Fault Determination Rules 'may find you or the driver wholly or partially responsible,' which directly supports the claim.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_061",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly states that the Fault Determination Rules 'may find you or the driver wholly or partially responsible,' which directly supports the claim."
+      }
+    ]
+  },
+  {
+    "claim_id": "q15_c1",
+    "question_id": "q15",
+    "claim_text": "If a described automobile is stolen, the insurer will pay reasonable expenses for a rental substitute automobile.",
+    "cited_chunk_ids": [
+      "c_076"
+    ],
+    "verdict": "PARTIAL",
+    "reasoning": "The passage supports that the insurer pays reasonable expenses for a rental substitute automobile after theft, but the claim omits several qualifications: the coverage only applies under All Perils, Comprehensive, or Specified Perils options; it doesn't begin until 72 hours after the theft is reported; and it is capped at $900.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_076",
+        "verdict": "PARTIAL",
+        "reasoning": "The passage supports that the insurer pays reasonable expenses for a rental substitute automobile after theft, but the claim omits several qualifications: the coverage only applies under All Perils, Comprehensive, or Specified Perils options; it doesn't begin until 72 hours after the theft is reported; and it is capped at $900."
+      }
+    ]
+  },
+  {
+    "claim_id": "q15_c2",
+    "question_id": "q15",
+    "claim_text": "The rental substitute automobile reimbursement benefit requires the insured to have All Perils, Comprehensive, or Specified Perils coverage.",
+    "cited_chunk_ids": [
+      "c_076"
+    ],
+    "verdict": "PARTIAL",
+    "reasoning": "The passage confirms that All Perils, Comprehensive, or Specified Perils coverage is required for the rental substitute reimbursement, but this benefit is specifically limited to loss of use due to theft, a qualification the claim omits.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_076",
+        "verdict": "PARTIAL",
+        "reasoning": "The passage confirms that All Perils, Comprehensive, or Specified Perils coverage is required for the rental substitute reimbursement, but this benefit is specifically limited to loss of use due to theft, a qualification the claim omits."
+      }
+    ]
+  },
+  {
+    "claim_id": "q15_c3",
+    "question_id": "q15",
+    "claim_text": "The maximum reimbursement for a rental substitute automobile when a described automobile is stolen is $900.",
+    "cited_chunk_ids": [
+      "c_076"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly states 'The most we will pay in either case for such expenses is $900,' directly confirming the $900 maximum reimbursement for rental substitute automobile expenses when a described automobile is stolen.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_076",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly states 'The most we will pay in either case for such expenses is $900,' directly confirming the $900 maximum reimbursement for rental substitute automobile expenses when a described automobile is stolen."
+      }
+    ]
+  },
+  {
+    "claim_id": "q16_c1",
+    "question_id": "q16",
+    "claim_text": "If you drive a temporary substitute automobile and are responsible for damage to it, the policy will pay for direct damage for which you are legally responsible.",
+    "cited_chunk_ids": [
+      "c_075"
+    ],
+    "verdict": "PARTIAL",
+    "reasoning": "The passage confirms the policy pays for direct damage for which you are legally responsible, but the claim omits the deductible qualification and the condition that if the owner's policy deductible is larger, only the difference between deductibles is paid.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_075",
+        "verdict": "PARTIAL",
+        "reasoning": "The passage confirms the policy pays for direct damage for which you are legally responsible, but the claim omits the deductible qualification and the condition that if the owner's policy deductible is larger, only the difference between deductibles is paid."
+      }
+    ]
+  },
+  {
+    "claim_id": "q16_c2",
+    "question_id": "q16",
+    "claim_text": "The amount paid for direct damage to a temporary substitute automobile is reduced by the applicable deductible.",
+    "cited_chunk_ids": [
+      "c_075"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly states that the insurer will pay for direct damage for which the insured or driver are legally responsible, 'minus the deductible for that peril under this policy,' directly supporting the claim that the amount paid is reduced by the applicable deductible.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_075",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly states that the insurer will pay for direct damage for which the insured or driver are legally responsible, 'minus the deductible for that peril under this policy,' directly supporting the claim that the amount paid is reduced by the applicable deductible."
+      }
+    ]
+  },
+  {
+    "claim_id": "q16_c3",
+    "question_id": "q16",
+    "claim_text": "Renting a car to replace your own vehicle while it is being repaired following an accident is an example of using a temporary substitute automobile.",
+    "cited_chunk_ids": [
+      "c_075"
+    ],
+    "verdict": "SUPPORTED",
+    "reasoning": "The passage explicitly uses the example of renting a car to replace your own vehicle while it is being repaired following an accident as an illustration of a temporary substitute automobile scenario.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_075",
+        "verdict": "SUPPORTED",
+        "reasoning": "The passage explicitly uses the example of renting a car to replace your own vehicle while it is being repaired following an accident as an illustration of a temporary substitute automobile scenario."
+      }
+    ]
+  },
+  {
+    "claim_id": "q16_c4",
+    "question_id": "q16",
+    "claim_text": "If the rental company's collision deductible is larger than the policyholder's deductible, the policy would pay the difference between the two deductibles.",
+    "cited_chunk_ids": [
+      "c_075"
+    ],
+    "verdict": "PARTIAL",
+    "reasoning": "The passage supports the claim but only when the rental company's deductible is larger than the policyholder's deductible AND the damage amount exceeds the rental company's deductible; when damage is less than the rental company's deductible, the policy pays the actual damage minus the policyholder's deductible (not the difference between deductibles), as shown in Example #1 where $300 is paid ($800 minus $500), not the $500 difference between deductibles.",
+    "per_chunk_verdicts": [
+      {
+        "chunk_id": "c_075",
+        "verdict": "PARTIAL",
+        "reasoning": "The passage supports the claim but only when the rental company's deductible is larger than the policyholder's deductible AND the damage amount exceeds the rental company's deductible; when damage is less than the rental company's deductible, the policy pays the actual damage minus the policyholder's deductible (not the difference between deductibles), as shown in Example #1 where $300 is paid ($800 minus $500), not the $500 difference between deductibles."
+      }
+    ]
+  }
+]

@@ -1,0 +1,246 @@
+[
+  {
+    "question_id": "q01",
+    "answer_text": "Yes, a motorized snow vehicle is included in the definition of automobile under this policy [c_004].",
+    "retrieved_chunk_ids": [
+      "c_004",
+      "c_048",
+      "c_013",
+      "c_018",
+      "c_059"
+    ],
+    "cited_chunk_ids": [
+      "c_004"
+    ],
+    "stop_reason": "end_turn"
+  },
+  {
+    "question_id": "q02",
+    "answer_text": "Based on the provided excerpts, I cannot fully answer this question. The excerpts do not contain a specific definition or list of who qualifies as an \"insured person\" under Liability Coverage when someone other than the named insured is driving the described automobile.\n\nWhat the excerpts do tell us is limited to related but distinct scenarios:\n\n- Coverage extends to **other automobiles** (not the described automobile) when driven by **you or your spouse who lives with you** [c_019].\n- For corporate named insureds, the **employee or partner** for whose regular use a described automobile is supplied, **and their spouse who lives with them**, may be covered when driving other automobiles [c_019].\n- Section 4.1 addresses coverage when **insured persons drive, rent, or lease other automobiles**, but does not define who is an insured person under Liability Coverage for the described automobile specifically [c_103].\n\nThe excerpts do not include the section of the policy that defines \"insured person\" under Liability Coverage (which would typically be found in the Liability Coverage section itself, such as Section 3). To fully answer your question, that section would need to be provided.",
+    "retrieved_chunk_ids": [
+      "c_004",
+      "c_019",
+      "c_103",
+      "c_039",
+      "c_024"
+    ],
+    "cited_chunk_ids": [
+      "c_019",
+      "c_103"
+    ],
+    "stop_reason": "end_turn"
+  },
+  {
+    "question_id": "q03",
+    "answer_text": "Based on the policy excerpts, you must report an accident involving injury or property damage to your insurance agent, broker, or insurance company **within seven days**, regardless of who is at fault. If you are unable to report within seven days, you must report it as soon as possible after that [c_007].",
+    "retrieved_chunk_ids": [
+      "c_049",
+      "c_056",
+      "c_091",
+      "c_007",
+      "c_047"
+    ],
+    "cited_chunk_ids": [
+      "c_007"
+    ],
+    "stop_reason": "end_turn"
+  },
+  {
+    "question_id": "q04",
+    "answer_text": "Based on the policy excerpts, Comprehensive coverage pays for losses **other than those caused by collision or upset**, including [c_069]:\n\n- All perils listed under **Specified Perils** (fire; theft or attempted theft; lightning, windstorm, hail, or rising water; earthquake; explosion; riot or civil disturbance; falling or forced landing of aircraft or parts of aircraft; or the stranding, sinking, burning, derailment or collision of any transport carrying the automobile) [c_069]\n- **Falling or flying objects** [c_069]\n- **Missiles** [c_069]\n- **Vandalism** [c_069]\n\nIn contrast, Collision or Upset coverage only pays for losses caused when a described automobile is involved in **a collision with another object or tips over** [c_069]. So the key items that Comprehensive covers but Collision or Upset does not include things like theft, weather-related damage, vandalism, falling objects, and missiles [c_069].",
+    "retrieved_chunk_ids": [
+      "c_069",
+      "c_101",
+      "c_072",
+      "c_059",
+      "c_068"
+    ],
+    "cited_chunk_ids": [
+      "c_069"
+    ],
+    "stop_reason": "end_turn"
+  },
+  {
+    "question_id": "q05",
+    "answer_text": "Based on the provided excerpts, the policy states that when making a claim under the Loss or Damage coverage (Section 7), you and other insured persons must \"permit us to inspect the automobile at any reasonable time\" [c_077].\n\nHowever, the excerpts do not explicitly state what specific consequence or penalty would result if you **refuse** to permit such an inspection. The excerpts only outline the obligation to allow inspection, but do not detail the specific outcome of non-compliance with this requirement.\n\nFor a complete answer on the consequences of refusing an inspection, you would need to consult additional portions of the policy not included in the provided excerpts.",
+    "retrieved_chunk_ids": [
+      "c_050",
+      "c_091",
+      "c_064",
+      "c_077",
+      "c_001"
+    ],
+    "cited_chunk_ids": [
+      "c_077"
+    ],
+    "stop_reason": "end_turn"
+  },
+  {
+    "question_id": "q06",
+    "answer_text": "Based on the policy excerpts, the most the insurer will pay for loss or damage to electronic accessories or equipment other than factory installed equipment is **$1,500** [c_079]. Specifically, the insurer will pay the actual cash value of the equipment up to $1,500 in total [c_079].\n\nFor reference, \"electronic accessories and equipment\" includes items such as radios, tape players/decks, stereo players/decks, compact disc players, speakers, telephones, two-way radios, televisions, facsimile machines, electronic navigation assistance, positioning and location finding devices, computers, and items of a similar nature [c_079]. \"Factory installed equipment\" means electronic accessories and equipment which was included in the original new purchase price of the automobile [c_079].",
+    "retrieved_chunk_ids": [
+      "c_079",
+      "c_098",
+      "c_001",
+      "c_058",
+      "c_059"
+    ],
+    "cited_chunk_ids": [
+      "c_079"
+    ],
+    "stop_reason": "end_turn"
+  },
+  {
+    "question_id": "q07",
+    "answer_text": "Based on the excerpts provided, under Uninsured Automobile Coverage (Section 5), the following applies to damage to your automobile and its contents:\n\n**Deductible:** We will not pay for the first $300 worth of accidental damage to the automobile and its contents [c_054].\n\n**Maximum Payable:** We will not pay any amount over $25,000 in any one accident for damage to the automobile and its contents [c_054].",
+    "retrieved_chunk_ids": [
+      "c_001",
+      "c_062",
+      "c_054",
+      "c_059",
+      "c_079"
+    ],
+    "cited_chunk_ids": [
+      "c_054"
+    ],
+    "stop_reason": "end_turn"
+  },
+  {
+    "question_id": "q08",
+    "answer_text": "Based on the policy excerpts, when an accident results in valid claims for both bodily injury or death **and** property damage, the total amount payable is divided as follows:\n\n- **95% is allocated to bodily injury and death claims** [c_052]\n- **5% is allocated to property damage** (damage to the automobile or its contents) [c_052]\n\nTo illustrate with the example provided in the policy: if an accident results in $350,000 in bodily injury claims and $20,000 in property damage, but the maximum payable is $200,000 (the minimum liability limit), then $190,000 (95%) would go toward bodily injury payments, and $10,000 (5%) would apply to the vehicle loss [c_052].\n\nIt is also worth noting that for property damage specifically, coverage is subject to a **$300 deductible** and capped at **$25,000** [c_047], and that this property damage coverage only applies when the responsible driver is **identified** — damage caused by an unidentified automobile is not covered under this section [c_047].",
+    "retrieved_chunk_ids": [
+      "c_052",
+      "c_047",
+      "c_033",
+      "c_025",
+      "c_049"
+    ],
+    "cited_chunk_ids": [
+      "c_052",
+      "c_047"
+    ],
+    "stop_reason": "end_turn"
+  },
+  {
+    "question_id": "q09",
+    "answer_text": "## Deductible Calculations When 25% At Fault\n\n### Section 7 Collision Deductible\n\nWhen you are partially at fault, your Section 7 Collision deductible is calculated by **multiplying your full Collision deductible by the percentage to which you were at fault**. So if you are 25% at fault with a $500 Collision deductible, your Section 7 deductible would be $125 (25% × $500) [c_072].\n\n### Direct Compensation – Property Damage (DC-PD) Deductible\n\nThe DC-PD deductible works in the **opposite direction** — it is calculated by multiplying the deductible shown on your Certificate of Automobile Insurance by the percentage to which you were **not** at fault. So if you are 25% at fault (meaning 75% not at fault) with a $300 DC-PD deductible, your DC-PD deductible would be $225 (75% × $300) [c_062].\n\n### Key Difference\n\n| Coverage | Multiplied By |\n|----------|--------------|\n| Section 7 Collision | Your **at-fault** percentage |\n| DC-PD (Section 6) | Your **not-at-fault** percentage |\n\nThis is illustrated in Example #3 of Section 7, where being 25% at fault results in a combined deductible responsibility of $350 total ($125 under Section 7 + $225 under DC-PD) [c_072][c_062].",
+    "retrieved_chunk_ids": [
+      "c_072",
+      "c_062",
+      "c_075",
+      "c_058",
+      "c_068"
+    ],
+    "cited_chunk_ids": [
+      "c_072",
+      "c_062"
+    ],
+    "stop_reason": "end_turn"
+  },
+  {
+    "question_id": "q10",
+    "answer_text": "## Coverage for Damage to a Temporary Substitute Automobile\n\n### Conditions That Must Be Met\n\nFor a temporary substitute automobile to qualify for coverage, several conditions must be satisfied:\n\n1. **The described automobile must be out of service** — specifically due to breakdown, repair, servicing, theft, sale, or destruction, and must not be in use by anyone insured under the policy [c_018].\n\n2. **The substitute vehicle cannot be owned by you** or by anyone living in the same dwelling as you [c_018].\n\n3. **The applicable optional Loss or Damage Coverage (e.g., Collision) must have been purchased** on the described automobile that is temporarily out of service, with a premium shown for it on the Certificate of Automobile Insurance [c_018].\n\n4. **You or the driver must be legally responsible** for the damage — either through liability imposed by law or agreed to by you or the driver [c_075].\n\n---\n\n### How Much the Insurer Will Pay\n\nThe calculation depends on whether the owner of the substitute automobile also carries collision insurance:\n\n- **If the owner has no collision insurance**, the insurer will pay for the direct damage for which you are legally responsible, **minus your policy's deductible** for that peril [c_075].\n\n- **If the owner also has collision insurance**, the most the insurer will pay is the **difference between the two deductibles** — i.e., the owner's (larger) deductible minus your (smaller) deductible [c_075].\n\n> **Example:** You cause $2,800 in damage to a rental car. The rental company has a $1,000 deductible; your policy has a $500 deductible. The insurer will pay **$500** — the difference between the two deductibles — not the full repair cost [c_075].",
+    "retrieved_chunk_ids": [
+      "c_075",
+      "c_018",
+      "c_004",
+      "c_051",
+      "c_001"
+    ],
+    "cited_chunk_ids": [
+      "c_018",
+      "c_075"
+    ],
+    "stop_reason": "end_turn"
+  },
+  {
+    "question_id": "q11",
+    "answer_text": "Based on the excerpts provided, the war activities exclusion does **not** apply to every coverage in the policy.\n\nSpecifically, **Liability Coverage is explicitly exempted** from the war activities exclusion [c_014]. The policy states: \"With the exception of Liability Coverage, this policy does not cover loss, damage, injury or death caused by war activities.\" [c_014]\n\nAdditionally, the policy notes that \"other restrictions apply to specific coverages, such as Accident Benefits and optional Loss or Damage coverages,\" suggesting the exclusion may operate differently across different sections of the policy [c_014].",
+    "retrieved_chunk_ids": [
+      "c_014",
+      "c_013",
+      "c_081",
+      "c_104",
+      "c_059"
+    ],
+    "cited_chunk_ids": [
+      "c_014"
+    ],
+    "stop_reason": "end_turn"
+  },
+  {
+    "question_id": "q12",
+    "answer_text": "Based on the provided excerpts, the policy does not specify a standard deductible amount for collision coverage. The excerpts indicate that the deductible, if any, is shown on the Certificate of Automobile Insurance [c_072], but no specific standard dollar amount for collision coverage is stated in the provided excerpts.",
+    "retrieved_chunk_ids": [
+      "c_075",
+      "c_072",
+      "c_101",
+      "c_001",
+      "c_039"
+    ],
+    "cited_chunk_ids": [
+      "c_072"
+    ],
+    "stop_reason": "end_turn"
+  },
+  {
+    "question_id": "q13",
+    "answer_text": "Based on the excerpts provided, I cannot answer this question. The excerpts do not contain any information about the maximum weekly amount payable under the Income Replacement Benefit. While the Income Replacement Benefit is mentioned as an optional benefit that \"may compensate you and other insured persons for lost income\" [c_040], no specific dollar amounts or maximum weekly benefit limits are stated in any of the provided excerpts.",
+    "retrieved_chunk_ids": [
+      "c_043",
+      "c_040",
+      "c_008",
+      "c_044",
+      "c_025"
+    ],
+    "cited_chunk_ids": [
+      "c_040"
+    ],
+    "stop_reason": "end_turn"
+  },
+  {
+    "question_id": "q14",
+    "answer_text": "The excerpts provided do not contain specific fault percentages for particular accident scenarios such as rear-ending a stopped vehicle. While the policy does reference the **Fault Determination Rules** as the mechanism for determining responsibility, stating that \"responsibility for an accident is determined by the Insurance Act (Ontario) and the Fault Determination Rules\" and that \"[t]hese may find you or the driver wholly or partially responsible\" [c_061], the actual Fault Determination Rules themselves are not included in the provided excerpts.\n\nTherefore, I cannot answer your specific question about the fault percentage for a rear-end collision using only the information provided.",
+    "retrieved_chunk_ids": [
+      "c_059",
+      "c_083",
+      "c_091",
+      "c_061",
+      "c_062"
+    ],
+    "cited_chunk_ids": [
+      "c_061"
+    ],
+    "stop_reason": "end_turn"
+  },
+  {
+    "question_id": "q15",
+    "answer_text": "Based on the excerpts provided, there is no specific coverage mentioned for renting a replacement vehicle while your car is being repaired after a collision.\n\nThe only rental car reimbursement benefit described in these excerpts is specifically limited to situations involving **theft**. Section 7.4.4 states that if a described automobile is stolen, and you have All Perils, Comprehensive, or Specified Perils coverage, the insurer will pay reasonable expenses for a rental substitute automobile, up to a maximum of $900 [c_076].\n\nThe excerpts do not contain any provision for loss-of-use or rental car coverage arising from a collision repair situation. You would need to consult other parts of your policy not included in these excerpts to determine if such coverage exists.",
+    "retrieved_chunk_ids": [
+      "c_075",
+      "c_074",
+      "c_072",
+      "c_076",
+      "c_034"
+    ],
+    "cited_chunk_ids": [
+      "c_076"
+    ],
+    "stop_reason": "end_turn"
+  },
+  {
+    "question_id": "q16",
+    "answer_text": "Based on the policy excerpts provided, the answer depends on the circumstances of the rental.\n\n**Coverage may be available if the rental car is a \"temporary substitute automobile.\"** Section 7.4.3 specifically addresses this scenario: if you drive a temporary substitute automobile and are responsible for damage to it, the policy will pay for direct damage for which you are legally responsible, minus the applicable deductible [c_075].\n\nHowever, there is an important condition — a **temporary substitute automobile** is defined as one used to *replace your own vehicle while it is being repaired or serviced*. The example given in Section 7.4.3 states: *\"You rent a car to replace your own, which is being repaired following an accident\"* [c_075]. If your rental was simply for a weekend trip (i.e., your own car was still available and not being repaired), it may **not** qualify as a \"temporary substitute automobile,\" and this coverage might not apply.\n\n**Regarding how the deductibles work** if coverage does apply: if the rental company's collision deductible is *larger* than yours, the policy would pay the difference between the two deductibles [c_075].\n\nSince the definition of \"temporary substitute automobile\" is referenced as being in Section 2 of the policy, but that section is **not included in the provided excerpts**, I cannot confirm with certainty whether a purely recreational rental qualifies. You would need to review Section 2 for the precise definition.",
+    "retrieved_chunk_ids": [
+      "c_075",
+      "c_074",
+      "c_034",
+      "c_059",
+      "c_062"
+    ],
+    "cited_chunk_ids": [
+      "c_075"
+    ],
+    "stop_reason": "end_turn"
+  }
+]

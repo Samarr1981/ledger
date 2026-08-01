@@ -1,0 +1,146 @@
+[
+  {
+    "id": "q01",
+    "type": "direct",
+    "question": "Is a motorized snow vehicle considered an automobile under this policy?",
+    "notes": "",
+    "refused": false,
+    "refusal_correct": null,
+    "missed_chunk_id": null
+  },
+  {
+    "id": "q02",
+    "type": "direct",
+    "question": "Who counts as an insured person under Liability Coverage when someone other than the named insured is driving the described automobile?",
+    "notes": "",
+    "refused": true,
+    "refusal_correct": false,
+    "missed_chunk_id": "c_030"
+  },
+  {
+    "id": "q03",
+    "type": "direct",
+    "question": "Within how many days must I notify the insurer of an accident involving injury or property damage?",
+    "notes": "",
+    "refused": false,
+    "refusal_correct": null,
+    "missed_chunk_id": null
+  },
+  {
+    "id": "q04",
+    "type": "direct",
+    "question": "What does Comprehensive coverage pay for that Collision or Upset coverage does not?",
+    "notes": "",
+    "refused": false,
+    "refusal_correct": null,
+    "missed_chunk_id": null
+  },
+  {
+    "id": "q05",
+    "type": "direct",
+    "question": "What happens to my optional Loss or Damage coverage if I refuse to let the insurer inspect my automobile?",
+    "notes": "",
+    "refused": true,
+    "refusal_correct": false,
+    "missed_chunk_id": "c_027"
+  },
+  {
+    "id": "q06",
+    "type": "numeric",
+    "question": "What is the most the insurer will pay for loss or damage to electronic accessories that were not installed at the factory?",
+    "notes": "",
+    "refused": false,
+    "refusal_correct": null,
+    "missed_chunk_id": null
+  },
+  {
+    "id": "q07",
+    "type": "numeric",
+    "question": "Under Uninsured Automobile Coverage, what deductible applies to damage to my automobile and its contents, and what is the maximum payable?",
+    "notes": "",
+    "refused": false,
+    "refusal_correct": null,
+    "missed_chunk_id": null
+  },
+  {
+    "id": "q08",
+    "type": "numeric",
+    "question": "If one accident produces claims for both bodily injury and property damage, how is the total amount payable divided between them?",
+    "notes": "",
+    "refused": false,
+    "refusal_correct": null,
+    "missed_chunk_id": null
+  },
+  {
+    "id": "q09",
+    "type": "multi_hop",
+    "question": "If I am found 25 percent at fault in a collision, how is my Section 7 Collision deductible calculated, and how does that calculation differ from the Direct Compensation Property Damage deductible?",
+    "notes": "",
+    "refused": false,
+    "refusal_correct": null,
+    "missed_chunk_id": null
+  },
+  {
+    "id": "q10",
+    "type": "multi_hop",
+    "question": "I damaged a temporary substitute automobile while my own car was being repaired. What conditions must be met for coverage, and how much will the insurer pay if the owner of that vehicle also has collision insurance?",
+    "notes": "",
+    "refused": false,
+    "refusal_correct": null,
+    "missed_chunk_id": null
+  },
+  {
+    "id": "q11",
+    "type": "multi_hop",
+    "question": "Does the war activities exclusion apply to every coverage in this policy?",
+    "notes": "",
+    "refused": false,
+    "refusal_correct": null,
+    "missed_chunk_id": null
+  },
+  {
+    "id": "q12",
+    "type": "trap",
+    "question": "What is the standard deductible for collision coverage under this policy?",
+    "notes": "",
+    "refused": true,
+    "refusal_correct": true,
+    "missed_chunk_id": null
+  },
+  {
+    "id": "q13",
+    "type": "trap",
+    "question": "What is the maximum weekly Income Replacement Benefit payable under this policy?",
+    "notes": "",
+    "refused": true,
+    "refusal_correct": true,
+    "missed_chunk_id": null
+  },
+  {
+    "id": "q14",
+    "type": "trap",
+    "question": "If I rear-end another vehicle that is stopped at a stop sign, what percentage of fault will I be assigned?",
+    "notes": "",
+    "refused": true,
+    "refusal_correct": true,
+    "missed_chunk_id": null
+  },
+  {
+    "id": "q15",
+    "type": "near_miss",
+    "question": "My car is in the shop being repaired after a collision. Will the policy pay for a rental car while I wait?",
+    "notes": "",
+    "refused": true,
+    "refusal_correct": false,
+    "missed_chunk_id": "c_098"
+  },
+  {
+    "id": "q16",
+    "type": "near_miss",
+    "question": "I rented a car for a weekend trip and dented it in a parking lot. Does my policy cover the damage to that rental car?",
+    "notes": "",
+    "refused": true,
+    "refusal_correct": false,
+    "missed_chunk_id": "c_018"
+  }
+]
