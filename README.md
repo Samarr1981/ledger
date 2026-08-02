@@ -2,6 +2,8 @@
 
 A claim-level grounding eval for RAG over insurance policy documents.
 
+TL;DR: An ordinary RAG pipeline over Ontario's standard auto policy refused 4 of 13 answerable questions, every one a retrieval miss with the answering clause sitting in the corpus. No citation metric detects this, because a refusal carries no citations to check. Of the claims the system did make, 81.4% were grounded in their cited passage with zero fabrications. The verifier agreed with my hand labels 52% of the time, so read that grounding number as a floor.
+
 Most RAG systems report citation coverage: the percentage of answer sentences carrying a source reference. That number proves a chunk was retrieved and attached. It proves nothing about whether the sentence is true relative to that chunk.
 
 Ledger splits every answer into atomic claims and verifies each one against **only the chunk that claim cites**, in a call that never sees the question or the rest of the answer.
